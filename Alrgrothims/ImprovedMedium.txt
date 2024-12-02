@@ -1,0 +1,3375 @@
+
+Step: 1
+OOOOOOO
+OB   DO
+O     O
+O     O
+OZR  ZO
+OAZ ZCO
+OOOOOOO
+
+
+Step: 2
+OOOOOOO
+OB   DO
+O     O
+O R   O
+OZX  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 3
+OOOOOOO
+OB   DO
+O R   O
+O X   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 4
+OOOOOOO
+OBR  DO
+O     O
+O X   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 5
+OOOOOOO
+OB R DO
+O     O
+O X   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 6
+OOOOOOO
+OB  RDO
+O     O
+O X   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 7
+OOOOOOO
+OB   DO
+O   R O
+O X   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 8
+OOOOOOO
+OB   DO
+O     O
+O X R O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 9
+OOOOOOO
+OB   DO
+O     O
+O XR  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 10
+OOOOOOO
+OB   DO
+O     O
+O  XR O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 11
+OOOOOOO
+OB   DO
+O     O
+O   XRO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 12
+OOOOOOO
+OB   DO
+O    RO
+O   X O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 13
+OOOOOOO
+OB   DO
+O   R O
+O   X O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 14
+OOOOOOO
+OB  RDO
+O   X O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 15
+OOOOOOO
+OB R DO
+O   X O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 16
+OOOOOOO
+OB   DO
+O  RX O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 17
+OOOOOOO
+OB   DO
+O RX  O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 18
+OOOOOOO
+OB   DO
+ORX   O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 19
+OOOOOOO
+OB   DO
+O X   O
+OR    O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 20
+OOOOOOO
+OB   DO
+O X   O
+O R   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 21
+OOOOOOO
+OB   DO
+O X   O
+O     O
+OZR  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 22
+OOOOOOO
+OB   DO
+O X   O
+O     O
+OZ R ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 23
+OOOOOOO
+OB   DO
+O X   O
+O     O
+OZ  RZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 24
+OOOOOOO
+OB   DO
+O X   O
+O   R O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 25
+OOOOOOO
+OB   DO
+O X R O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 26
+OOOOOOO
+OB   DO
+O XR  O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 27
+OOOOOOO
+OB   DO
+O  XR O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 28
+OOOOOOO
+OB   DO
+O   XRO
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 29
+OOOOOOO
+OB   bO
+O   XDO
+O    RO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 30
+OOOOOOO
+OB   bO
+O   XDO
+O   R O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 31
+OOOOOOO
+OB   bO
+O    DO
+O   X O
+OZ  RZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 32
+OOOOOOO
+OB   bO
+O    DO
+O   X O
+OZ R ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 33
+OOOOOOO
+OB   bO
+O    DO
+O  RX O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 34
+OOOOOOO
+OB   bO
+O    DO
+O RX  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 35
+OOOOOOO
+OB   bO
+O R  DO
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 36
+OOOOOOO
+OB   bO
+O  R DO
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 37
+OOOOOOO
+OB   bO
+O   RDO
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 38
+OOOOOOO
+OB   bO
+O  RD O
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 39
+OOOOOOO
+OB   bO
+O RD  O
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 40
+OOOOOOO
+OBR  bO
+O  D  O
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 41
+OOOOOOO
+OB R bO
+O  D  O
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 42
+OOOOOOO
+OB  RbO
+O  D  O
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 43
+OOOOOOO
+OB   RO
+O  D  O
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 44
+OOOOOOO
+OB   bO
+O  D RO
+O  X  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 45
+OOOOOOO
+OB   bO
+O  D  O
+O  X RO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 46
+OOOOOOO
+OB   bO
+O  D  O
+O  XR O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 47
+OOOOOOO
+OB   bO
+O  D  O
+O   XRO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 48
+OOOOOOO
+OB   bO
+O  D RO
+O   X O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 49
+OOOOOOO
+OB   bO
+O  DR O
+O   X O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 50
+OOOOOOO
+OB  RbO
+O  DX O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 51
+OOOOOOO
+OB   RO
+O  DX O
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 52
+OOOOOOO
+OB   bO
+O  DXRO
+O     O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 53
+OOOOOOO
+OB   bO
+O  DX O
+O    RO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 54
+OOOOOOO
+OB   bO
+O  DX O
+O   R O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 55
+OOOOOOO
+OB   bO
+O  DX O
+O  R  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 56
+OOOOOOO
+OB   bO
+O   X O
+O  D  O
+OZ R ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 57
+OOOOOOO
+OB   bO
+O   X O
+O  D  O
+OZ  RZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 58
+OOOOOOO
+OB   bO
+O   X O
+O  DR O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 59
+OOOOOOO
+OB   bO
+O   X O
+O  D RO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 60
+OOOOOOO
+OB   bO
+O   XRO
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 61
+OOOOOOO
+OB   RO
+O   X O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 62
+OOOOOOO
+OB  RbO
+O   X O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 63
+OOOOOOO
+OB R bO
+O   X O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 64
+OOOOOOO
+OB   bO
+O  RX O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 65
+OOOOOOO
+OB   bO
+O RX  O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 66
+OOOOOOO
+OBR  bO
+O  X  O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 67
+OOOOOOO
+OB R bO
+O  X  O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 68
+OOOOOOO
+OB  RbO
+O  X  O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 69
+OOOOOOO
+OB   RO
+O  X  O
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 70
+OOOOOOO
+OB   bO
+O  X RO
+O  D  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 71
+OOOOOOO
+OB   bO
+O  X  O
+O  D RO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 72
+OOOOOOO
+OB   bO
+O  X  O
+O  DR O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 73
+OOOOOOO
+OB   bO
+O  X  O
+O   DRO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 74
+OOOOOOO
+OB   bO
+O  X RO
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 75
+OOOOOOO
+OB   bO
+O  XR O
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 76
+OOOOOOO
+OB   bO
+O   XRO
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 77
+OOOOOOO
+OB   RO
+O   X O
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 78
+OOOOOOO
+OB  RbO
+O   X O
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 79
+OOOOOOO
+OB R bO
+O   X O
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 80
+OOOOOOO
+OBR  bO
+O   X O
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 81
+OOOOOOO
+OB   bO
+O R X O
+O   D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 82
+OOOOOOO
+OB   bO
+O   X O
+O R D O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 83
+OOOOOOO
+OB   bO
+O   X O
+O  RD O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 84
+OOOOOOO
+OB   bO
+O   X O
+O RD  O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 85
+OOOOOOO
+OB   bO
+O   X O
+ORD   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 86
+OOOOOOO
+OB   bO
+OR  X O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 87
+OOOOOOO
+OB   bO
+O R X O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 88
+OOOOOOO
+OB   bO
+O  RX O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 89
+OOOOOOO
+OB   bO
+O RX  O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 90
+OOOOOOO
+OBR  bO
+O  X  O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 91
+OOOOOOO
+OB R bO
+O  X  O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 92
+OOOOOOO
+OB  RbO
+O  X  O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 93
+OOOOOOO
+OB   RO
+O  X  O
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 94
+OOOOOOO
+OB   bO
+O  X RO
+O D   O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 95
+OOOOOOO
+OB   bO
+O  X  O
+O D  RO
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 96
+OOOOOOO
+OB   bO
+O  X  O
+O D R O
+OZ   ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 97
+OOOOOOO
+OB   bO
+O  X  O
+O D   O
+OZ  RZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 98
+OOOOOOO
+OB   bO
+O  X  O
+O D   O
+OZ R ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 99
+OOOOOOO
+OB   bO
+O  X  O
+O D   O
+OZR  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 100
+OOOOOOO
+OB   bO
+O  X  O
+O     O
+OZD  ZO
+OAR ZCO
+OOOOOOO
+
+
+Step: 101
+OOOOOOO
+OB   bO
+O  X  O
+O     O
+OZD  ZO
+OASRZCO
+OOOOOOO
+
+
+Step: 102
+OOOOOOO
+OB   bO
+O  X  O
+O     O
+OZDR ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 103
+OOOOOOO
+OB   bO
+O  X  O
+O  R  O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 104
+OOOOOOO
+OB   bO
+O     O
+O  X  O
+OZDR ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 105
+OOOOOOO
+OB   bO
+O     O
+O  X  O
+OZD RZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 106
+OOOOOOO
+OB   bO
+O     O
+O  XR O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 107
+OOOOOOO
+OB   bO
+O     O
+O   XRO
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 108
+OOOOOOO
+OB   bO
+O    RO
+O   X O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 109
+OOOOOOO
+OB   RO
+O     O
+O   X O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 110
+OOOOOOO
+OB  RbO
+O     O
+O   X O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 111
+OOOOOOO
+OB R bO
+O     O
+O   X O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 112
+OOOOOOO
+OBR  bO
+O     O
+O   X O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 113
+OOOOOOO
+OB   bO
+O R   O
+O   X O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 114
+OOOOOOO
+OB   bO
+O     O
+O R X O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 115
+OOOOOOO
+OB   bO
+O     O
+O  RX O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 116
+OOOOOOO
+OB   bO
+O     O
+O RX  O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 117
+OOOOOOO
+OB   bO
+O     O
+ORX   O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 118
+OOOOOOO
+OB   bO
+OR    O
+O X   O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 119
+OOOOOOO
+OB   bO
+O R   O
+O X   O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 120
+OOOOOOO
+OBR  bO
+O X   O
+O     O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 121
+OOOOOOO
+OB R bO
+O X   O
+O     O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 122
+OOOOOOO
+OB   bO
+O XR  O
+O     O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 123
+OOOOOOO
+OB   bO
+O  XR O
+O     O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 124
+OOOOOOO
+OB   bO
+O   XRO
+O     O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 125
+OOOOOOO
+OB   bO
+O   X O
+O    RO
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 126
+OOOOOOO
+OB   bO
+O   X O
+O   R O
+OZD  ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 127
+OOOOOOO
+OB   bO
+O   X O
+O     O
+OZD RZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 128
+OOOOOOO
+OB   bO
+O   X O
+O     O
+OZDR ZO
+OAS ZCO
+OOOOOOO
+
+
+Step: 129
+OOOOOOO
+OB   bO
+O   X O
+O     O
+OZD  ZO
+OASRZCO
+OOOOOOO
+
+
+Step: 130
+OOOOOOO
+OB   bO
+O   X O
+O     O
+OZD  ZO
+OAR ZCO
+OOOOOOO
+
+
+Step: 131
+OOOOOOO
+OB   bO
+O   X O
+O     O
+OZD  ZO
+OcARZCO
+OOOOOOO
+
+
+Step: 132
+OOOOOOO
+OB   bO
+O   X O
+O     O
+OZDR ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 133
+OOOOOOO
+OB   bO
+O   X O
+O     O
+OZD RZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 134
+OOOOOOO
+OB   bO
+O   X O
+O   R O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 135
+OOOOOOO
+OB   bO
+O   X O
+O    RO
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 136
+OOOOOOO
+OB   bO
+O   XRO
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 137
+OOOOOOO
+OB   RO
+O   X O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 138
+OOOOOOO
+OB  RbO
+O   X O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 139
+OOOOOOO
+OB R bO
+O   X O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 140
+OOOOOOO
+OB   bO
+O  RX O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 141
+OOOOOOO
+OB   bO
+O RX  O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 142
+OOOOOOO
+OBR  bO
+O  X  O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 143
+OOOOOOO
+OB R bO
+O  X  O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 144
+OOOOOOO
+OB  RbO
+O  X  O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 145
+OOOOOOO
+OB   RO
+O  X  O
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 146
+OOOOOOO
+OB   bO
+O  X RO
+O     O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 147
+OOOOOOO
+OB   bO
+O  X  O
+O    RO
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 148
+OOOOOOO
+OB   bO
+O  X  O
+O   R O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 149
+OOOOOOO
+OB   bO
+O  X  O
+O  R  O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 150
+OOOOOOO
+OB   bO
+O     O
+O  X  O
+OZDR ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 151
+OOOOOOO
+OB   bO
+O     O
+O  X  O
+OZD RZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 152
+OOOOOOO
+OB   bO
+O     O
+O  XR O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 153
+OOOOOOO
+OB   bO
+O     O
+O   XRO
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 154
+OOOOOOO
+OB   bO
+O    RO
+O   X O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 155
+OOOOOOO
+OB   RO
+O     O
+O   X O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 156
+OOOOOOO
+OB  RbO
+O     O
+O   X O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 157
+OOOOOOO
+OB R bO
+O     O
+O   X O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 158
+OOOOOOO
+OBR  bO
+O     O
+O   X O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 159
+OOOOOOO
+OB   bO
+O R   O
+O   X O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 160
+OOOOOOO
+OB   bO
+O     O
+O R X O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 161
+OOOOOOO
+OB   bO
+O     O
+O  RX O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 162
+OOOOOOO
+OB   bO
+O     O
+O RX  O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 163
+OOOOOOO
+OB   bO
+O     O
+ORX   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 164
+OOOOOOO
+OB   bO
+OR    O
+O X   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 165
+OOOOOOO
+OB   bO
+O R   O
+O X   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 166
+OOOOOOO
+OBR  bO
+O     O
+O X   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 167
+OOOOOOO
+OB R bO
+O     O
+O X   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 168
+OOOOOOO
+OB  RbO
+O     O
+O X   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 169
+OOOOOOO
+OB   RO
+O     O
+O X   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 170
+OOOOOOO
+OB   bO
+O    RO
+O X   O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 171
+OOOOOOO
+OB   bO
+O     O
+O X  RO
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 172
+OOOOOOO
+OB   bO
+O     O
+O X R O
+OZD  ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 173
+OOOOOOO
+OB   bO
+O     O
+O X   O
+OZD RZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 174
+OOOOOOO
+OB   bO
+O     O
+O X   O
+OZDR ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 175
+OOOOOOO
+OB   bO
+O     O
+O X   O
+OZ DRZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 176
+OOOOOOO
+OB   bO
+O     O
+O X R O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 177
+OOOOOOO
+OB   bO
+O     O
+O XR  O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 178
+OOOOOOO
+OB   bO
+O     O
+O  XR O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 179
+OOOOOOO
+OB   bO
+O     O
+O   XRO
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 180
+OOOOOOO
+OB   bO
+O    RO
+O   X O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 181
+OOOOOOO
+OB   bO
+O   R O
+O   X O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 182
+OOOOOOO
+OB   bO
+O  R  O
+O   X O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 183
+OOOOOOO
+OB   bO
+O     O
+O  RX O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 184
+OOOOOOO
+OB   bO
+O     O
+O R X O
+OZ D ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 185
+OOOOOOO
+OB   bO
+O     O
+O   X O
+OZRD ZO
+OcA ZCO
+OOOOOOO
+
+
+Step: 186
+OOOOOOO
+OB   bO
+O     O
+O R X O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 187
+OOOOOOO
+OB   bO
+O     O
+O  RX O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 188
+OOOOOOO
+OB   bO
+O     O
+O RX  O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 189
+OOOOOOO
+OB   bO
+O     O
+ORX   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 190
+OOOOOOO
+OB   bO
+OR    O
+O X   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 191
+OOOOOOO
+OB   bO
+O R   O
+O X   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 192
+OOOOOOO
+OBR  bO
+O     O
+O X   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 193
+OOOOOOO
+OB R bO
+O     O
+O X   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 194
+OOOOOOO
+OB  RbO
+O     O
+O X   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 195
+OOOOOOO
+OB   RO
+O     O
+O X   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 196
+OOOOOOO
+OB   bO
+O    RO
+O X   O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 197
+OOOOOOO
+OB   bO
+O     O
+O X  RO
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 198
+OOOOOOO
+OB   bO
+O     O
+O X R O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 199
+OOOOOOO
+OB   bO
+O     O
+O XR  O
+OZAD ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 200
+OOOOOOO
+OB   bO
+O  R  O
+O XD  O
+OZA  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 201
+OOOOOOO
+OB R bO
+O     O
+O XD  O
+OZA  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 202
+OOOOOOO
+OB  RbO
+O     O
+O XD  O
+OZA  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 203
+OOOOOOO
+OB   RO
+O     O
+O XD  O
+OZA  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 204
+OOOOOOO
+OB   bO
+O    RO
+O XD  O
+OZA  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 205
+OOOOOOO
+OB   bO
+O     O
+O XD RO
+OZA  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 206
+OOOOOOO
+OB   bO
+O     O
+O XDR O
+OZA  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 207
+OOOOOOO
+OB   bO
+O     O
+O XD  O
+OZA RZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 208
+OOOOOOO
+OB   bO
+O     O
+O XD  O
+OZAR ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 209
+OOOOOOO
+OB   bO
+O     O
+O XD  O
+OZ ARZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 210
+OOOOOOO
+OB   bO
+O     O
+O XDR O
+OZ A ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 211
+OOOOOOO
+OB   bO
+O     O
+O X DRO
+OZ A ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 212
+OOOOOOO
+OB   bO
+O    RO
+O X D O
+OZ A ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 213
+OOOOOOO
+OB   bO
+O   R O
+O X D O
+OZ A ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 214
+OOOOOOO
+OB   bO
+O  R  O
+O X D O
+OZ A ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 215
+OOOOOOO
+OB   bO
+O     O
+O XRD O
+OZ A ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 216
+OOOOOOO
+OB   bO
+O  R  O
+O XAD O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 217
+OOOOOOO
+OB   bO
+O R   O
+O XAD O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 218
+OOOOOOO
+OBR  bO
+O X   O
+O  AD O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 219
+OOOOOOO
+OB R bO
+O X   O
+O  AD O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 220
+OOOOOOO
+OB   bO
+O XR  O
+O  AD O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 221
+OOOOOOO
+OB   bO
+O  XR O
+O  AD O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 222
+OOOOOOO
+OB  RbO
+O  XD O
+O  A  O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 223
+OOOOOOO
+OB   RO
+O  XD O
+O  A  O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 224
+OOOOOOO
+OB   bO
+O  XDRO
+O  A  O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 225
+OOOOOOO
+OB   bO
+O  XD O
+O  A RO
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 226
+OOOOOOO
+OB   bO
+O  XD O
+O  AR O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 227
+OOOOOOO
+OB   bO
+O  XD O
+O   ARO
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 228
+OOOOOOO
+OB   bO
+O  XDRO
+O   A O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 229
+OOOOOOO
+OB   RO
+O  XD O
+O   A O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 230
+OOOOOOO
+OB  RbO
+O  XD O
+O   A O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 231
+OOOOOOO
+OB R bO
+O  XD O
+O   A O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 232
+OOOOOOO
+OBR  bO
+O  XD O
+O   A O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 233
+OOOOOOO
+OB   bO
+O RXD O
+O   A O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 234
+OOOOOOO
+OB   bO
+O  XD O
+O R A O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 235
+OOOOOOO
+OB   bO
+O  XD O
+O  RA O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 236
+OOOOOOO
+OB   bO
+O  XD O
+O RA  O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 237
+OOOOOOO
+OB   bO
+O  XD O
+ORA   O
+OZ   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 238
+OOOOOOO
+OB   bO
+OR XD O
+OXA   O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 239
+OOOOOOO
+OB   bO
+O RXD O
+OXA   O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 240
+OOOOOOO
+OBR  bO
+O AXD O
+OX    O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 241
+OOOOOOO
+OB R bO
+O AXD O
+OX    O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 242
+OOOOOOO
+OB  RbO
+O AXD O
+OX    O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 243
+OOOOOOO
+OB   RO
+O AXD O
+OX    O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 244
+OOOOOOO
+OB   bO
+O AXDRO
+OX    O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 245
+OOOOOOO
+OB   bO
+O AXD O
+OX   RO
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 246
+OOOOOOO
+OB   bO
+O AXD O
+OX  R O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 247
+OOOOOOO
+OB   bO
+O AXD O
+OX R  O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 248
+OOOOOOO
+OB   bO
+O AXD O
+OXR   O
+OS   ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 249
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OSR  ZO
+OcS ZCO
+OOOOOOO
+
+
+Step: 250
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OS   ZO
+OcR ZCO
+OOOOOOO
+
+
+Step: 251
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OS   ZO
+OcSRZCO
+OOOOOOO
+
+
+Step: 252
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OS   ZO
+OcRXSCO
+OOOOOOO
+
+
+Step: 253
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OS   ZO
+ORZ SCO
+OOOOOOO
+
+
+Step: 254
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OR   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 255
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OSR  ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 256
+OOOOOOO
+OB   bO
+O  XD O
+OXA   O
+OS R ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 257
+OOOOOOO
+OB   bO
+O  XD O
+OXAR  O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 258
+OOOOOOO
+OB   bO
+O  XD O
+OXA R O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 259
+OOOOOOO
+OB   bO
+O  XD O
+OXA  RO
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 260
+OOOOOOO
+OB   bO
+O  XDRO
+OXA   O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 261
+OOOOOOO
+OB   RO
+O  XD O
+OXA   O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 262
+OOOOOOO
+OB  RbO
+O  XD O
+OXA   O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 263
+OOOOOOO
+OB R bO
+O  XD O
+OXA   O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 264
+OOOOOOO
+OBR  bO
+O  XD O
+OXA   O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 265
+OOOOOOO
+OB   bO
+O RXD O
+OXA   O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 266
+OOOOOOO
+OBR  bO
+O AXD O
+OX    O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 267
+OOOOOOO
+OB R bO
+O AXD O
+OX    O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 268
+OOOOOOO
+OB  RbO
+O AXD O
+OX    O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 269
+OOOOOOO
+OB   RO
+O AXD O
+OX    O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 270
+OOOOOOO
+OB   bO
+O AXDRO
+OX    O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 271
+OOOOOOO
+OB   bO
+O AXD O
+OX   RO
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 272
+OOOOOOO
+OB   bO
+O AXD O
+OX  R O
+OS   ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 273
+OOOOOOO
+OB   bO
+O AXD O
+OX    O
+OS  RZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 274
+OOOOOOO
+OB   bO
+O AXD O
+OX    O
+OS R ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 275
+OOOOOOO
+OB   bO
+O AXD O
+OX    O
+OSR  ZO
+OcZ SCO
+OOOOOOO
+
+
+Step: 276
+OOOOOOO
+OB   bO
+O AXD O
+OXR   O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 277
+OOOOOOO
+OB   bO
+O AXD O
+OX R  O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 278
+OOOOOOO
+OB   bO
+O AXD O
+OX  R O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 279
+OOOOOOO
+OB   bO
+O AXD O
+OX   RO
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 280
+OOOOOOO
+OB   bO
+O AXDRO
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 281
+OOOOOOO
+OB   RO
+O AXD O
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 282
+OOOOOOO
+OB  RbO
+O AXD O
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 283
+OOOOOOO
+OB R bO
+O AXD O
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 284
+OOOOOOO
+OBR  bO
+O AXD O
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 285
+OOOOOOO
+OaBR bO
+O AXD O
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 286
+OOOOOOO
+OaB RbO
+O AXD O
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 287
+OOOOOOO
+OaB  RO
+O AXD O
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 288
+OOOOOOO
+OaB  bO
+O AXDRO
+OX    O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 289
+OOOOOOO
+OaB  bO
+O AXD O
+OX   RO
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 290
+OOOOOOO
+OaB  bO
+O AXD O
+OX  R O
+OSX  ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 291
+OOOOOOO
+OaB  bO
+O AX  O
+OX  D O
+OSX RZO
+OcS SCO
+OOOOOOO
+
+
+Step: 292
+OOOOOOO
+OaB  bO
+O AX  O
+OX  D O
+OSXR ZO
+OcS SCO
+OOOOOOO
+
+
+Step: 293
+OOOOOOO
+OaB  bO
+O AX  O
+OX  D O
+OS XRZO
+OcS SCO
+OOOOOOO
+
+
+Step: 294
+OOOOOOO
+OaB  bO
+O AX  O
+OX    O
+OS XDZO
+OcS RCO
+OOOOOOO
+
+
+Step: 295
+OOOOOOO
+OaB  bO
+O AX  O
+OX    O
+OS XDZO
+OcSRSCO
+OOOOOOO
+
+
+Step: 296
+OOOOOOO
+OaB  bO
+O AX  O
+OX    O
+OS XDZO
+OcR SCO
+OOOOOOO
+
+
+Step: 297
+OOOOOOO
+OaB  bO
+O AX  O
+OX    O
+OSRXDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 298
+OOOOOOO
+OaB  bO
+O AX  O
+OXR   O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 299
+OOOOOOO
+OaB  bO
+O AX  O
+OX R  O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 300
+OOOOOOO
+OaB  bO
+O AX  O
+OX  R O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 301
+OOOOOOO
+OaB  bO
+O AX  O
+OX   RO
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 302
+OOOOOOO
+OaB  bO
+O AX RO
+OX    O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 303
+OOOOOOO
+OaB  RO
+O AX  O
+OX    O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 304
+OOOOOOO
+OaB RbO
+O AX  O
+OX    O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 305
+OOOOOOO
+OaBR bO
+O AX  O
+OX    O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 306
+OOOOOOO
+Oa BRbO
+O AX  O
+OX    O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 307
+OOOOOOO
+Oa B RO
+O AX  O
+OX    O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 308
+OOOOOOO
+Oa B bO
+O AX RO
+OX    O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 309
+OOOOOOO
+Oa B bO
+O AX  O
+OX   RO
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 310
+OOOOOOO
+Oa B bO
+O AX  O
+OX  R O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 311
+OOOOOOO
+Oa B bO
+O AX  O
+OX R  O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 312
+OOOOOOO
+Oa B bO
+O AX  O
+OXR   O
+OS XDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 313
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OSRXDZO
+OcS SCO
+OOOOOOO
+
+
+Step: 314
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OS XDZO
+OcR SCO
+OOOOOOO
+
+
+Step: 315
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OS XDZO
+OcSRSCO
+OOOOOOO
+
+
+Step: 316
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OS XDZO
+OcS RCO
+OOOOOOO
+
+
+Step: 317
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OS XDZO
+OcSRCdO
+OOOOOOO
+
+
+Step: 318
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OS XDZO
+OcRCSdO
+OOOOOOO
+
+
+Step: 319
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OS XDZO
+ORC SdO
+OOOOOOO
+
+
+Step: 320
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OR XDZO
+OcC SdO
+OOOOOOO
+
+
+Step: 321
+OOOOOOO
+Oa B bO
+O AX  O
+OX    O
+OSRXDZO
+OcC SdO
+OOOOOOO
+
+
+Step: 322
+OOOOOOO
+Oa B bO
+O AX  O
+OXR   O
+OSCXDZO
+OcS SdO
+OOOOOOO
+
+
+Step: 323
+OOOOOOO
+Oa B bO
+O AX  O
+OX R  O
+OSCXDZO
+OcS SdO
+OOOOOOO
+
+
+Step: 324
+OOOOOOO
+Oa B bO
+O AX  O
+OX  R O
+OSCXDZO
+OcS SdO
+OOOOOOO
+
+
+Step: 325
+OOOOOOO
+Oa B bO
+O AX  O
+OX   RO
+OSCXDZO
+OcS SdO
+OOOOOOO
+
+
+Step: 326
+OOOOOOO
+Oa B bO
+O AX RO
+OX   XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 327
+OOOOOOO
+Oa B RO
+O AX  O
+OX   XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 328
+OOOOOOO
+Oa BRbO
+O AX  O
+OX   XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 329
+OOOOOOO
+Oa  BRO
+O AX  O
+OX   XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 330
+OOOOOOO
+Oa  BbO
+O AX RO
+OX   XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 331
+OOOOOOO
+Oa  BbO
+O AXR O
+OX   XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 332
+OOOOOOO
+Oa   bO
+O AXB O
+OX  RXO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 333
+OOOOOOO
+Oa   bO
+O AXB O
+OX R XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 334
+OOOOOOO
+Oa   bO
+O AXB O
+OXR  XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 335
+OOOOOOO
+Oa   bO
+O AXB O
+O XR XO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 336
+OOOOOOO
+Oa   bO
+O AXB O
+O X RXO
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 337
+OOOOOOO
+Oa   bO
+O AXB O
+O XRX O
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+
+Total Steps to Destination: 337
+
+Total Time in seconds: 509

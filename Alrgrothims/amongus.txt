@@ -1,0 +1,339 @@
+
+Step: 1
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OAO  O O
+ORO  O O
+O O OO O
+O      O
+OOOOOOOO
+
+
+Step: 2
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+OAO  O O
+ORO OO O
+O      O
+OOOOOOOO
+
+
+Step: 3
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  O O
+OAO OO O
+OR     O
+OOOOOOOO
+
+
+Step: 4
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  O O
+OAO OO O
+O R    O
+OOOOOOOO
+
+
+Step: 5
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  O O
+OAO OO O
+O  R   O
+OOOOOOOO
+
+
+Step: 6
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  O O
+OAO OO O
+O   R  O
+OOOOOOOO
+
+
+Step: 7
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  O O
+OAO OO O
+O    R O
+OOOOOOOO
+
+
+Step: 8
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  O O
+OAO OO O
+O     RO
+OOOOOOOO
+
+
+Step: 9
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  O O
+OAO OORO
+O      O
+OOOOOOOO
+
+
+Step: 10
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  O O
+O O  ORO
+OAO OO O
+O      O
+OOOOOOOO
+
+
+Step: 11
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   OBO
+OaO  ORO
+O O  O O
+OAO OO O
+O      O
+OOOOOOOO
+
+
+Step: 12
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  OBO
+O O  ORO
+OAO OO O
+O      O
+OOOOOOOO
+
+
+Step: 13
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  OBO
+OAO OORO
+O      O
+OOOOOOOO
+
+
+Step: 14
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O     RO
+OOOOOOOO
+
+
+Step: 15
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O    R O
+OOOOOOOO
+
+
+Step: 16
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O   R  O
+OOOOOOOO
+
+
+Step: 17
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O  R   O
+OOOOOOOO
+
+
+Step: 18
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAOROOBO
+O      O
+OOOOOOOO
+
+
+Step: 19
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O OR O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 20
+OOOOOOOO
+O    OOO
+O  O  OO
+OO   ObO
+OaOR O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 21
+OOOOOOOO
+O    OOO
+O  O  OO
+OO R ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 22
+OOOOOOOO
+O    OOO
+O  O  OO
+OOR  ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 23
+OOOOOOOO
+O    OOO
+O RO  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 24
+OOOOOOOO
+O R  OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 25
+OOOOOOOO
+O  R OOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 26
+OOOOOOOO
+O   ROOO
+O  O  OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 27
+OOOOOOOO
+O    OOO
+O  OR OO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+Step: 28
+OOOOOOOO
+O    OOO
+O  O ROO
+OO   ObO
+OaO  O O
+O O  O O
+OAO OOBO
+O      O
+OOOOOOOO
+
+
+
+Total Steps to Destination: 28
