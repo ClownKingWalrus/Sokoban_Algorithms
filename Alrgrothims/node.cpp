@@ -4,20 +4,6 @@
 * Default constructor
 ***********************************************/
 Node::Node() {
-	name = "";
-	data = 0;
-	childVector = {};
-}
-
-Node::Node(int Data, std::string Name) {
-	name = Name;
-	data = Data;
-	childVector = {};
-}
-
-Node::Node(int Data) {
-	name = "";
-	data = Data;
 	childVector = {};
 }
 
@@ -32,26 +18,20 @@ Node::~Node() {
 /*******************************************//**
 * Create a new node with data
 ***********************************************/
-Node* Node::CreateNewNode(int Data) {
-	Node* newNode = new Node(Data); //#optimized
-	return newNode;
-}
+//Node* Node::CreateNewNode(int Data) {
+//	Node* newNode = new Node(Data); //#optimized
+//	return newNode;
+//}
 
 //for a double tree will need to be overwriten for other algrothims
-void Node::AddChild(Node* inputNode, int Data) {
-	Node* newNode = new Node(Data);
-	if (inputNode->childVector.empty()) {
-		newNode->name = "Left";
-	}
-	else {
-		newNode->name = "Right";
-	}
-	inputNode->childVector.push_back(newNode);
-}
+//void Node::AddChild(Node* inputNode, int Data) {
+//	Node* newNode = new Node(Data);
+//	inputNode->childVector.push_back(newNode);
+//}
 
 void Node::RecursivePrintNodes(Node* inputNode) {
 	//print the current node
-	std::cout << "Name: " << inputNode->name << " Data: " << inputNode->data << " Child Vector Size: " << inputNode->childVector.size() << std::endl;
+	//std::cout << "Name: " << inputNode->name << " Data: " << inputNode->data << " Child Vector Size: " << inputNode->childVector.size() << std::endl;
 
 	for (auto it = inputNode->childVector.begin(); it != inputNode->childVector.end(); ++it) {
 		Node::RecursivePrintNodes(*it); // calls the next child untill it hits end then tree works back up

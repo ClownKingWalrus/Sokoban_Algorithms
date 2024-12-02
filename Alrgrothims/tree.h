@@ -1,18 +1,23 @@
 #pragma once
-#include "nodeSokoMind.h"
+#include "SeanNode.h"
 class Tree {
 public:
 /*******************************************//**
 * Default constructor
 ***********************************************/
 	//Tree();
-	Tree(NodeSokoMind* inputNode);
+	Tree(std::string inputString);
 	~Tree();
 
 /*******************************************//**
 * Class Varibles
 ***********************************************/
-	NodeSokoMind* rootNode;
+	SeanNode* rootNode;
+	SeanNode finalNode;
+	SeanNode CompleteMapNode;
+	std::vector<bool> sokoMind;
+	int width = 0;
+	int height = 0;
 
 /*******************************************//**
 * Class Functions

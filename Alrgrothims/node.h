@@ -12,22 +12,19 @@ public:
 	 * Default constructor
 	 ***********************************************/
 	Node();
-	Node(int Data, std::string Name);
-	Node(int Data);
+	//Node(int Data, std::string Name);
+	//Node(int Data);
 	~Node();
 
 	/*******************************************//**
 	 * Class Varibles
 	 ***********************************************/
-	std::string name;
-	int data;
 	std::vector<Node*> childVector;
 
 	/*******************************************//**
 	 * Class Functions
 	 ***********************************************/
-	static Node* CreateNewNode(int Data); //returns new node
-	void AddChild(Node* inputNode, int Data); //adds child to inputed node
+	//void AddChild(Node* inputNode, int Data); //adds child to inputed node
 	void RecursivePrintNodes(Node* inputNode);
 	std::vector<Node*> getChildVector();
 };

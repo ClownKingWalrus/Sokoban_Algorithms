@@ -1,27 +1,11 @@
 #include "tree.h"
-#include "nodeSokoMind.h"
 #include "DFS.h"
-#include <chrono>
 int main() {
+	//newTree.rootNode->PrintBoard(newTree.rootNode, newTree.sokoMind, newTree.width, newTree.height, newTree.finalNode);
 	DFS DFSUTIL; //dont need to delete its on the stack
-	NodeSokoMind* test = new NodeSokoMind(); //needs to delete its a pointer
-	test->ReadPuzzelFirstTime("sokomindtest.txt"); // a place holder for trees root
-	Tree newTree = Tree(test);
+	Tree newTree = Tree("map7.txt");//todo test all directions to ensure robot has quad directional movement
 	auto start = std::chrono::high_resolution_clock::now();
-	DFSUTIL.DFSCheck(newTree.rootNode);
-	auto stop = std::chrono::high_resolution_clock::now();
-	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start);
-	//winner message
-	if (DFSUTIL.completed) {
-		std::cout << "\n\nWINNER Nodes Exanded" << std::endl;
-		std::cout << test->NodesExpanded(newTree.rootNode) << std::endl;
-		std::cout << "Time Spent milliseconds: " << float(duration.count() / 1000) <<std::endl;
-	}
-	else {
-		std::cout << "\n\nno possible solutions after: " << std::endl;
-		std::cout << test->NodesExpanded(newTree.rootNode) << std::endl;
-		std::cout << "Time Spent milliseconds: " << float(duration.count() / 1000) << std::endl;
-	}
+	DFSUTIL.DFSCheckOverhaul(newTree.rootNode, newTree.width, newTree.height, newTree.sokoMind, newTree.finalNode, newTree.CompleteMapNode, start);
 	newTree.~Tree();
 
 	return 0;

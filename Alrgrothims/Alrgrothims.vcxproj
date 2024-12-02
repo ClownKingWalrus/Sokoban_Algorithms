@@ -127,19 +127,25 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DFS.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="node.cpp" />
     <ClCompile Include="nodeSokoMind.cpp" />
-    <ClCompile Include="tree.cpp" />
+    <ClCompile Include="SeanNode.cpp" />
+    <ClCompile Include="Tree.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DFS.h" />
     <ClInclude Include="node.h" />
     <ClInclude Include="nodeSokoMind.h" />
-    <ClInclude Include="tree.h" />
+    <ClInclude Include="SeanNode.h" />
+    <ClInclude Include="Tree.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="DirectionTester.txt" />
+    <Text Include="FREEDOM.txt" />
+    <Text Include="LargeSokoMind.txt" />
+    <Text Include="map7.txt" />
+    <Text Include="SeanUnsolved.txt" />
     <Text Include="sokomind small.txt" />
     <Text Include="sokomindMedium.txt" />
     <Text Include="sokomindtest.txt" />

@@ -1,0 +1,21 @@
+﻿  DFS.cpp
+  main.cpp
+  node.cpp
+  nodeSokoMind.cpp
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(33,29): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(37,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(40,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(43,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(46,30): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(49,41): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(49,41): warning C4244:         with
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(49,41): warning C4244:         [
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(49,41): warning C4244:             _Ty=int
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(49,41): warning C4244:         ]
+C:\Users\butte\source\repos\Alrgrothims\Alrgrothims\nodeSokoMind.cpp(55,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  tree.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 625 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Alrgrothims.vcxproj -> C:\Users\butte\source\repos\Alrgrothims\x64\Release\Alrgrothims.exe

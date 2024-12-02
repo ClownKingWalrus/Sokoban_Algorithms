@@ -21,18 +21,18 @@
     <ClCompile Include="node.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="tree.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="DFS.cpp">
+    <ClCompile Include="Tree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="nodeSokoMind.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SeanNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tree.h">
+    <ClInclude Include="Tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="node.h">
@@ -42,6 +42,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="nodeSokoMind.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SeanNode.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -56,6 +59,21 @@
       <Filter>Resource Files</Filter>
     </Text>
     <Text Include="tester.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="DirectionTester.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="FREEDOM.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="LargeSokoMind.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="SeanUnsolved.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="map7.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

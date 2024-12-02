@@ -2,6 +2,6 @@ OOOOOOO
 Oa   bO
 O AXB O
 O XRX O
-O CXD O
-Oc   dO
+OSCXDSO
+OcS SdO
 OOOOOOO
