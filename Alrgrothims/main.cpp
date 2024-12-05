@@ -4,7 +4,7 @@ int main() {
 	DFS DFSUTIL; //dont need to delete its on the stack
 
 	//put your map name in here
-	std::string mapName = "mapLarge1.txt";
+	std::string mapName = "MapSmall1.txt";
 	//put your map name in here
 
 	Tree newTree = Tree(mapName);

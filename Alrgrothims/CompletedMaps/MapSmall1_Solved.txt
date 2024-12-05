@@ -4653,4 +4653,4 @@ Nodes Expanded: 24211
 TotalNodes Expanded: 24375
 
 
-EST Memory MB STORED: 2
+Estimated Memory: 2.2425 (MB)

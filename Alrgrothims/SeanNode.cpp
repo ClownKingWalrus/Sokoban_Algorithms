@@ -15,6 +15,11 @@ SeanNode::~SeanNode() {
 	specialBoxes.clear();
 }
 
+
+namespace {
+	constexpr uint64_t NODE_SIZE = sizeof(SeanNode);
+}
+
 //this reads the puzzel and should return the data or set the nodes data
 SeanNode::customReturn SeanNode::ReadPuzzelFirstTime(std::string inputString) {
 	std::ifstream filedata(inputString); // create a way to access the file
@@ -23,7 +28,6 @@ SeanNode::customReturn SeanNode::ReadPuzzelFirstTime(std::string inputString) {
 	std::unordered_map<char, std::pair<int, int>> boxMap; //leave here its just for cross comparing
 	std::unordered_map<char, std::pair<int, int>> supplyMap;
 	std::vector<std::pair<int, int>> standerdSupplyPoints;
-	//int i = 0;
 	int height = 0;
 	int x = 0;
 	int y = 0;
@@ -696,17 +700,22 @@ void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector
 			infoSheet << "\n\n" << "Total Time in seconds: " << timerSeconds << '\n';
 			infoSheet << "\n\n" << "Nodes Expanded: " << NodesExpanded << '\n';
 			infoSheet << "\n\n" << "TotalNodes Expanded: " << totalNodes << '\n';
-			int memory = (((totalNodes * 88) + (totalNodes * 4)) / 1000000);
-			if (memory <= 0) {
-				memory = (((totalNodes * 88) + (totalNodes * 4)) / 1000);
-				if (memory <= 0) {
-					memory =  (((totalNodes * 88) + (totalNodes * 4)));
-					infoSheet << "\n\n" << "EST Memory BYTES STORED: " << (((totalNodes * 88) + (totalNodes * 4)) / 1000) << '\n';
-				}
-				infoSheet << "\n\n" << "EST Memory KB STORED: " << (((totalNodes * 88) + (totalNodes * 4)) / 1000) << '\n';
+
+			uint64_t memoryBytes = totalNodes * NODE_SIZE + totalNodes * sizeof(uint32_t);
+
+			if (memoryBytes >= std::giga::num) {
+				infoSheet << "\n\n" << "Estimated Memory: " << ((float)memoryBytes / std::giga::num) << " (GB)" << '\n';
+			}
+			else if (memoryBytes >= std::mega::num) {
+				infoSheet << "\n\n" << "Estimated Memory: " << ((float)memoryBytes / std::mega::num) << " (MB)" << '\n';
+			}
+			else if (memoryBytes >= std::kilo::num) {
+				infoSheet << "\n\n" << "Estimated Memory: " << ((float)memoryBytes / std::kilo::num) << " (KB)" << '\n';
+			}
+			else {
+				infoSheet << "\n\n" << "Estimated Memory: " << memoryBytes << " bytes" << '\n';
 			}
 			infoSheet.close();
-
 		}
 	}
 	return;
