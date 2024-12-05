@@ -660,14 +660,23 @@ bool SeanNode::WinCheck(SeanNode* InputNode, SeanNode FinalNode) {
 	return true; //if it gets to here that means all are matches and we can return win condidtion
 }
 
-void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector<bool> sokoMind, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime, int NodesExpanded) {
+void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector<bool> sokoMind, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime, int NodesExpanded, int totalNodes, std::string mapName) {
 	auto stop = std::chrono::high_resolution_clock::now();
 	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - startTime);
-	std::cout << "MAKING SHEET INSERT NAME FOR SHEET - note will be in folder -" << std::endl;
+	std::cout << "MAKING SHEET INSERT NAME FOR SHEET - note will be in completed maps folder \n(if no name is enterd it will be | map name:_Solved |)-" << std::endl;
+	std::string folderName = "CompletedMaps/";
 	std::string fileName;
 	std::getline(std::cin, fileName);
-	fileName += ".txt";
-	std::ofstream infoSheet(fileName); //create and open file
+	if (fileName == "") {
+		fileName = mapName;
+		fileName.erase((fileName.size() - 4));
+		fileName += "_Solved.txt";
+	}
+	else {
+		fileName += ".txt";
+	}
+	folderName += fileName; // add the users decided name on the completed map onto the folder path
+	std::ofstream infoSheet(folderName); //create and open file
 	int count = 1;
 	while (infoSheet.is_open()) {
 		if (InputNode->parent != 0) {
@@ -686,6 +695,16 @@ void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector
 			int timerSeconds = duration_Seconds.count();
 			infoSheet << "\n\n" << "Total Time in seconds: " << timerSeconds << '\n';
 			infoSheet << "\n\n" << "Nodes Expanded: " << NodesExpanded << '\n';
+			infoSheet << "\n\n" << "TotalNodes Expanded: " << totalNodes << '\n';
+			int memory = (((totalNodes * 88) + (totalNodes * 4)) / 1000000);
+			if (memory <= 0) {
+				memory = (((totalNodes * 88) + (totalNodes * 4)) / 1000);
+				if (memory <= 0) {
+					memory =  (((totalNodes * 88) + (totalNodes * 4)));
+					infoSheet << "\n\n" << "EST Memory BYTES STORED: " << (((totalNodes * 88) + (totalNodes * 4)) / 1000) << '\n';
+				}
+				infoSheet << "\n\n" << "EST Memory KB STORED: " << (((totalNodes * 88) + (totalNodes * 4)) / 1000) << '\n';
+			}
 			infoSheet.close();
 
 		}

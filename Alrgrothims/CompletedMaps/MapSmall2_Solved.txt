@@ -1,0 +1,122 @@
+
+Step: 1
+OOOOOO
+O    O
+O  O O
+OOR  O
+O A  O
+OOOOOO
+
+
+Step: 2
+OOOOOO
+O    O
+O RO O
+OOA  O
+O a  O
+OOOOOO
+
+
+Step: 3
+OOOOOO
+O R  O
+O  O O
+OOA  O
+O a  O
+OOOOOO
+
+
+Step: 4
+OOOOOO
+O  R O
+O  O O
+OOA  O
+O a  O
+OOOOOO
+
+
+Step: 5
+OOOOOO
+O   RO
+O  O O
+OOA  O
+O a  O
+OOOOOO
+
+
+Step: 6
+OOOOOO
+O    O
+O  ORO
+OOA  O
+O a  O
+OOOOOO
+
+
+Step: 7
+OOOOOO
+O    O
+O  O O
+OOA RO
+O a  O
+OOOOOO
+
+
+Step: 8
+OOOOOO
+O    O
+O  O O
+OOAR O
+O a  O
+OOOOOO
+
+
+Step: 9
+OOOOOO
+O    O
+O  O O
+OO ARO
+O a  O
+OOOOOO
+
+
+Step: 10
+OOOOOO
+O    O
+O  ORO
+OO A O
+O a  O
+OOOOOO
+
+
+Step: 11
+OOOOOO
+O   RO
+O  O O
+OO A O
+O a  O
+OOOOOO
+
+
+Step: 12
+OOOOOO
+O  R O
+O  O O
+OO A O
+O a  O
+OOOOOO
+
+
+
+Total Steps to Destination: 12
+
+Total Time in seconds: 0
+
+
+Nodes Expanded: 13
+
+
+TotalNodes Expanded: 18
+
+
+EST Memory MB STORED: 0

@@ -1,7 +1,9 @@
 #pragma once
-#include "node.h"
+#include <string>
+#include <iostream>
 #include <unordered_set>
 #include <unordered_map>
+#include <fstream>
 #include <stack>
 #include <chrono>
 //this class of node will also hold the boards
@@ -41,6 +43,6 @@ public:
 	static bool WinCheck(SeanNode* InputNode, SeanNode FinalNode);
 	static std::vector<char> CreateCharSokoMind(SeanNode* inputNode, std::vector<bool> sokoMind, int width, int height, SeanNode FinalNode);
 	static std::string CreateStringSokoMind(SeanNode* inputNode, std::vector<bool> sokoMind, int width, int height, SeanNode FinalNode);
-	void InfoSheet(SeanNode* inputNode, int height, int width, std::vector<bool> sokoMind, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime, int NodesExpanded);
+	void InfoSheet(SeanNode* inputNode, int height, int width, std::vector<bool> sokoMind, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime, int NodesExpanded, int TotalNodes, std::string mapName);
 
 };

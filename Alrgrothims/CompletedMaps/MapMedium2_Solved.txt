@@ -3372,4 +3372,13 @@ OOOOOOO
 
 Total Steps to Destination: 337
 
-Total Time in seconds: 583
+Total Time in seconds: 483
+
+
+Nodes Expanded: 6973766
+
+
+TotalNodes Expanded: 6973988
+
+
+EST Memory MB STORED: 641

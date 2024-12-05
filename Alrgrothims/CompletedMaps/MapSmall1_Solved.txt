@@ -4648,3 +4648,9 @@ Total Time in seconds: 1
 
 
 Nodes Expanded: 24211
+
+
+TotalNodes Expanded: 24375
+
+
+EST Memory MB STORED: 2

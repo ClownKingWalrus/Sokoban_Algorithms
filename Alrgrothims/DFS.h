@@ -1,14 +1,9 @@
 #pragma once
 #include "tree.h"
-#include <stack>
-#include <unordered_set>
-#include <iostream>
-#include <string>
 #include <functional>
 
 class DFS {
 public:
-	//std::stack<std::vector<char>*> closedlistmap;
 	int count2 = 1;
 	std::stack<SeanNode*> fringe;
 	//create custom hash
@@ -21,31 +16,9 @@ public:
 
 	SeanNode utilnode;
 	std::unordered_set<int>* testSet = new std::unordered_set<int>;
-
-	//		utilnode.LegalMoveChecks(inputnode); //input node now becomes child node
-	//		if (!fringe.empty()) {
-	//			fringe.pop();
-	//		}
-	//		for (auto it = inputnode->childvector.begin(); it < inputnode->childvector.end(); ++it) {
-	//			if (testset->find(vecttostring((*it)->sokomind)) != testset->end()) {//check new child map aganst stored maps
-	//				//if not unique do nothing
-	//			} else {
-	//				fringe.push(*it);
-	//				count2++;
-	//					//inputnode = *it; // set input node to the child that is valid
-	//					//break;
-	//				}
-	//			continue; //should go to next child if that child already exist in the table
-	//		}
-	//		inputnode = fringe.top();
-	//	}
-	//	if (inputnode->win) {
-	//		completed = true;
-	//	}
-	//	return;
-	//}
 	
-	void DFSCheckOverhaul(SeanNode* inputNode, int width, int height, std::vector<bool> sokoMind, SeanNode FinalNode, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime) {
+	void DFSCheckOverhaul(SeanNode* inputNode, int width, int height, std::vector<bool> sokoMind, SeanNode FinalNode, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime, std::string mapName) {
+		//if you get a out of bounds error here it means you inputted a mapname thats not in the folder
 		testSet->insert(VectToStringToInt((inputNode->CreateCharSokoMind(inputNode, sokoMind, width, height, FinalNode)))); //store first map
 		long long int counter = 1;
 		long long int counter2 = 0;
@@ -59,9 +32,10 @@ public:
 					fringe.push(it->first);
 					testSet->insert(VectToStringToInt(it->second));
 					if (it->first->win) {
-						CompleteMapNode.InfoSheet(it->first, height, width, sokoMind, CompleteMapNode, startTime, counter);
+						int TotalNodes = testSet->size();
+						CompleteMapNode.InfoSheet(it->first, height, width, sokoMind, CompleteMapNode, startTime, counter, TotalNodes, mapName);
 						CompleteMapNode.PrintBoard(it->first, sokoMind, width, height, CompleteMapNode);
-						std::cout << "Winner" << std::endl;
+						std::cout << "\nWinner" << std::endl;
 						std::cout << "NODES EXPANDED: " << counter << std::endl;
 						std::cout << '\n';
 						return; //break out of loop early  since the while loop will end since the winner node is now the input node

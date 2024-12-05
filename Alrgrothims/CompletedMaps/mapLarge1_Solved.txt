@@ -7185,3 +7185,14 @@ OOOOOOOOOOOOOOOOOOOOOOOO
 
 
 Total Steps to Destination: 449
+
+Total Time in seconds: 1
+
+
+Nodes Expanded: 9780
+
+
+TotalNodes Expanded: 9911
+
+
+EST Memory KB STORED: 911
