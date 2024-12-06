@@ -4,6 +4,13 @@
 
 *vcxproj*
 
+**sln*
+
+**.sln**
+*.sln
+
+Alrgrothims.sln
+
 build/
 **build/
 **build/*
