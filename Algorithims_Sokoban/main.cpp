@@ -11,7 +11,7 @@ int main() {
 	KINGSDOPAMINE KINGSDOPAMINEUTIL;
 
 	//==============================================================MAP NAME INSIDE OF HERE=======================================================
-	std::string mapName = "MapMedium2.txt";
+	std::string mapName = "mapSmallTest.txt";
 	//==============================================================MAP NAME INSIDE OF HERE=======================================================
 
 	Tree newTree = Tree(mapName);

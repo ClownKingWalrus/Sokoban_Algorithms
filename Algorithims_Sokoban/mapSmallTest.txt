@@ -1,8 +1,8 @@
 OOOOOOOO
-O  R   O
-OXXSOA O
+O   R  O
+O     XO
 O      O
+O   A  O
 O      O
-O      O
-OS  a  O
+Oa    SO
 OOOOOOOO
