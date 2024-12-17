@@ -1,0 +1,367 @@
+
+Step: 1
+OOOOOOO
+OA   BO
+O     O
+O     O
+OZ  RZO
+OCZ ZDO
+OOOOOOO
+
+
+Step: 2
+OOOOOOO
+OA   BO
+O     O
+O   R O
+OZ  XZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 3
+OOOOOOO
+OA   BO
+O   R O
+O   X O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 4
+OOOOOOO
+OA  RBO
+O   X O
+O     O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 5
+OOOOOOO
+OA RBbO
+O   X O
+O     O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 6
+OOOOOOO
+OAR BbO
+O   X O
+O     O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 7
+OOOOOOO
+OaARBbO
+O   X O
+O     O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 8
+OOOOOOO
+OaA BbO
+O  RX O
+O     O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 9
+OOOOOOO
+OaA BbO
+O RX  O
+O     O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 10
+OOOOOOO
+OaA BbO
+OR X  O
+O     O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 11
+OOOOOOO
+OaA BbO
+O  X  O
+OR    O
+OZ   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 12
+OOOOOOO
+OaA BbO
+OR X  O
+OX    O
+OS   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 13
+OOOOOOO
+OaA BbO
+O RX  O
+OX    O
+OS   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 14
+OOOOOOO
+Oa  BbO
+O AX  O
+OXR   O
+OS   ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 15
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSR  ZO
+OCZ SDO
+OOOOOOO
+
+
+Step: 16
+OOOOOOO
+Oa  BbO
+O AX  O
+OXR   O
+OSX  ZO
+OCS SDO
+OOOOOOO
+
+
+Step: 17
+OOOOOOO
+Oa  BbO
+O AX  O
+OX R  O
+OSX  ZO
+OCS SDO
+OOOOOOO
+
+
+Step: 18
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSXR ZO
+OCS SDO
+OOOOOOO
+
+
+Step: 19
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSX RZO
+OCS SDO
+OOOOOOO
+
+
+Step: 20
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSX  ZO
+OCS RDO
+OOOOOOO
+
+
+Step: 21
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSX  ZO
+OCSRDdO
+OOOOOOO
+
+
+Step: 22
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSX  ZO
+OCR DdO
+OOOOOOO
+
+
+Step: 23
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSX  ZO
+OcCRDdO
+OOOOOOO
+
+
+Step: 24
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OSXR ZO
+OcC DdO
+OOOOOOO
+
+
+Step: 25
+OOOOOOO
+Oa  BbO
+O AX  O
+OX    O
+OS XRZO
+OcC DdO
+OOOOOOO
+
+
+Step: 26
+OOOOOOO
+Oa  BbO
+O AX  O
+OX  R O
+OS XDZO
+OcC SdO
+OOOOOOO
+
+
+Step: 27
+OOOOOOO
+Oa  BbO
+O AX  O
+OX   RO
+OS XDZO
+OcC SdO
+OOOOOOO
+
+
+Step: 28
+OOOOOOO
+Oa  BbO
+O AX RO
+OX   XO
+OS XDSO
+OcC SdO
+OOOOOOO
+
+
+Step: 29
+OOOOOOO
+Oa  BbO
+O AXR O
+OX   XO
+OS XDSO
+OcC SdO
+OOOOOOO
+
+
+Step: 30
+OOOOOOO
+Oa   bO
+O AXB O
+OX  RXO
+OS XDSO
+OcC SdO
+OOOOOOO
+
+
+Step: 31
+OOOOOOO
+Oa   bO
+O AXB O
+OX RX O
+OS XDSO
+OcC SdO
+OOOOOOO
+
+
+Step: 32
+OOOOOOO
+Oa   bO
+O AXB O
+OXR X O
+OS XDSO
+OcC SdO
+OOOOOOO
+
+
+Step: 33
+OOOOOOO
+Oa   bO
+O AXB O
+OX  X O
+OSRXDSO
+OcC SdO
+OOOOOOO
+
+
+Step: 34
+OOOOOOO
+Oa   bO
+O AXB O
+OXR X O
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+Step: 35
+OOOOOOO
+Oa   bO
+O AXB O
+O XRX O
+OSCXDSO
+OcS SdO
+OOOOOOO
+
+
+
+Total Steps to Destination: 35
+
+Total Time in seconds: 474
+
+
+Nodes Expanded: 5879172
+
+
+TotalNodes Expanded: 7815756
+
+
+Node Size: 224 Bytes
+
+
+Estimated Memory: 14.2559 (GB)

@@ -18,6 +18,7 @@ Tree::Tree(std::string inputString) {
 			}
 		}
 	}
+	//need to figure out why i made a complete map node when its finalNode prob due to delete
 	CompleteMapNode = finalNode;
 }
 

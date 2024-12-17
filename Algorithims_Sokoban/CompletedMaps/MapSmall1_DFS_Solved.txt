@@ -4644,7 +4644,7 @@ OOOOOOOO
 
 Total Steps to Destination: 422
 
-Total Time in seconds: 1
+Total Time in milliseconds: 1559
 
 
 Nodes Expanded: 24211
@@ -4653,4 +4653,7 @@ Nodes Expanded: 24211
 TotalNodes Expanded: 24375
 
 
-Estimated Memory: 2.2425 (MB)
+Node Size: 144 Bytes
+
+
+Estimated Memory: 28.86 (MB)

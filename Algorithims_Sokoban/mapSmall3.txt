@@ -1,6 +1,6 @@
 OOOOOO
 O  R O
-O  O O
+O XO O
 OO A O
-O a  O
+OSa  O
 OOOOOO

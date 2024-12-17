@@ -15,11 +15,6 @@ SeanNode::~SeanNode() {
 	specialBoxes.clear();
 }
 
-
-namespace {
-	constexpr uint64_t NODE_SIZE = sizeof(SeanNode);
-}
-
 //this reads the puzzel and should return the data or set the nodes data
 SeanNode::customReturn SeanNode::ReadPuzzelFirstTime(std::string inputString) {
 	std::ifstream filedata(inputString); // create a way to access the file
@@ -99,9 +94,13 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 	bool top = false;
 	bool left = false;
 	bool right = false;
+
+	//debug
 	//std::cout << "\n\n================== PARENT =====================\n";
 	//inputNode->PrintBoard(inputNode, sokoMind, width, height, FinalNode);
 	//std::cout << "\n================== PARENT =====================\n";
+	//debug
+
 	if (sokoMind.at((robotpos + width)) == true) {
 		bot = true;
 	}
@@ -114,6 +113,7 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 	if (sokoMind.at((robotpos - 1)) == true) {
 		left = true;
 	}
+
 	if (!inputNode->specialBoxes.empty()) {  // set named boxes
 			for (auto it = inputNode->specialBoxes.begin(); it != inputNode->specialBoxes.end(); ++it) {
 				sokoMind.at((it->first + (it->second * width))) = false;
@@ -332,24 +332,8 @@ void SeanNode::CreateNewBoard(SeanNode* inputNode, SeanNode* newNode, int direct
 }
 
 int SeanNode::BoxChecker(int robotpos, int Direction, int width, int height, std::vector<bool> sokoMind) {
-	//int count = 0;
-	//int count2 = 0;
-//for (int i = 0; i < sokoMind.size(); i++) {
-//	if (count >= width) {
-//	std::cout << '\n';
-//	count = 0;
-//	}
-//	if (count2 == (robotpos + width)) {
-//	std::cout << "R";
-//	} else {
-//	std::cout << sokoMind[i];
-//	}
-//	count++;
-//	count2++;
-//}
-	//bottom check
 	switch (Direction) {
-	case 1:
+	case 1://Down move
 		if (sokoMind.at(robotpos + width) == true) { //no box just walk
 			return 0;
 		}
@@ -362,7 +346,7 @@ int SeanNode::BoxChecker(int robotpos, int Direction, int width, int height, std
 			}
 		}
 		break;
-	case 2:
+	case 2://Top move
 		if (sokoMind.at(robotpos - width) == true) {
 			return 0;
 		}
@@ -375,7 +359,7 @@ int SeanNode::BoxChecker(int robotpos, int Direction, int width, int height, std
 			}
 		}
 		break;
-	case 3:
+	case 3://Left move
 		if (sokoMind.at(robotpos - 1) == true) {
 			return 0;
 		}
@@ -388,7 +372,7 @@ int SeanNode::BoxChecker(int robotpos, int Direction, int width, int height, std
 			}
 		}
 		break;
-	case 4:
+	case 4://Right move
 		if (sokoMind.at(robotpos + 1) == true) {
 			return 0;
 		}
@@ -471,6 +455,7 @@ void SeanNode::PrintBoard(SeanNode* inputNode, std::vector<bool> sokoMind, int w
 		std::cout << *it;
 		i++;
 	}
+	std::cout << std::endl; //add a'\n' escape character so we dont write on same line on next std::cout
 }
 
 std::vector<char> SeanNode::CreateCharSokoMind(SeanNode* inputNode, std::vector<bool> sokoMind, int width, int height, SeanNode FinalNode) {
@@ -606,18 +591,18 @@ void SeanNode::PrintWinnerBoard(SeanNode* inputNode, std::vector<bool> sokoMind,
 }
 
 void SeanNode::BoxCleared(SeanNode* inputNode, std::pair<int, int> boxLocation, std::pair<int, int> newBoxLocation, SeanNode FinalNode) {
+	int count = -1;
 	for (auto it = inputNode->specialBoxes.begin(); it != inputNode->specialBoxes.end(); ++it) {
+		count++;
 		if (*it == boxLocation) {
 			*it = newBoxLocation; //set box location to new area
-			for (auto it2 = FinalNode.specialBoxes.begin(); it2 != FinalNode.specialBoxes.end(); ++it2) {
-				if (*it == *it2) { //if there is a S for the X box to drop off
-					//*it = { 0,0 }; //for now set to 0,0 so we keep proper indexing
-					//*it2 = { 0,0 };
-					if (WinCheck(inputNode, FinalNode)) {
-						inputNode->win = true;
-					}
-					return; //return out if we win or once we erase
+			auto it2 = FinalNode.specialBoxes.begin();
+			it2 += count;
+			if (*it == *it2) {
+				if (WinCheck(inputNode, FinalNode)) {
+					inputNode->win = true; //returns true if WinCheck() returns true
 				}
+				return;
 			}
 		}
 	}
@@ -627,8 +612,6 @@ void SeanNode::BoxCleared(SeanNode* inputNode, std::pair<int, int> boxLocation, 
 			*it = newBoxLocation;//set box location to new area
 			for (auto it2 = FinalNode.xBoxes.begin(); it2 != FinalNode.xBoxes.end(); ++it2) {
 				if (*it == *it2) { //if there is a S for the X box to drop off
-					//*it = { 0,0 }; //for now set to 0,0 so we keep proper indexing
-					//*it2 = { 0,0 };
 					if (WinCheck(inputNode, FinalNode)) {
 						inputNode->win = true;
 					}
@@ -641,16 +624,30 @@ void SeanNode::BoxCleared(SeanNode* inputNode, std::pair<int, int> boxLocation, 
 
 bool SeanNode::WinCheck(SeanNode* InputNode, SeanNode FinalNode) {
 	//if all == checker then we cleared all boxes
+	int count = -1;
 	for (auto itFinal = FinalNode.specialBoxes.begin(); itFinal < FinalNode.specialBoxes.end(); ++itFinal) {
-		for (auto it = InputNode->specialBoxes.begin(); it < InputNode->specialBoxes.end(); ++it) {
+		count++;
+		auto it = InputNode->specialBoxes.begin();
+		it += count; //make sure to keep both vectors counting up at the same speed to compare since its sorted
+		if (*itFinal == *it) { //compare both pairs together
+			if (itFinal == (FinalNode.specialBoxes.end() - 1)) { //if we are the final one and in here we can break out of the first loop
+				break;
+			}
+			continue;
+		} else {
+			return false;
+		}
+
+		/*for (auto it = InputNode->specialBoxes.begin(); it < InputNode->specialBoxes.end(); ++it) {
 			if (*it == *itFinal) {
 				break;
 			}
 			else if (it == (InputNode->specialBoxes.end() - 1)) {
 				return false;
 			}
-		}
+		}*/
 	}
+	//this works below since they are non descript as long as every box has a supply point on it we win
 	for (auto itFinal = FinalNode.xBoxes.begin(); itFinal < FinalNode.xBoxes.end(); ++itFinal) {
 		for (auto it = InputNode->xBoxes.begin(); it < InputNode->xBoxes.end(); ++it) {
 			if (*it == *itFinal) {
@@ -664,7 +661,7 @@ bool SeanNode::WinCheck(SeanNode* InputNode, SeanNode FinalNode) {
 	return true; //if it gets to here that means all are matches and we can return win condidtion
 }
 
-void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector<bool> sokoMind, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime, int NodesExpanded, int totalNodes, std::string mapName) {
+void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector<bool> sokoMind, SeanNode CompleteMapNode, std::chrono::time_point<std::chrono::high_resolution_clock> startTime, uint64_t NodesExpanded, uint64_t totalNodes, std::string mapName, std::string SearchAlgorithm) {
 	auto stop = std::chrono::high_resolution_clock::now();
 	auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - startTime);
 	std::cout << "MAKING SHEET INSERT NAME FOR SHEET - note will be in completed maps folder \n(if no name is enterd it will be | map name:_Solved |)-" << std::endl;
@@ -674,6 +671,8 @@ void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector
 	if (fileName == "") {
 		fileName = mapName;
 		fileName.erase((fileName.size() - 4));
+		fileName += "_";
+		fileName += SearchAlgorithm;
 		fileName += "_Solved.txt";
 	}
 	else {
@@ -682,6 +681,7 @@ void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector
 	folderName += fileName; // add the users decided name on the completed map onto the folder path
 	std::ofstream infoSheet(folderName); //create and open file
 	int count = 1;
+
 	while (infoSheet.is_open()) {
 		if (InputNode->parent != 0) {
 			std::string temp = InputNode->CreateStringSokoMind(InputNode, sokoMind, width, height, CompleteMapNode);
@@ -697,12 +697,49 @@ void SeanNode::InfoSheet(SeanNode* InputNode, int height, int width, std::vector
 			infoSheet << "\n\n" << "Total Steps to Destination: " << count;
 			auto duration_Seconds = std::chrono::duration_cast<std::chrono::seconds>(duration);
 			int timerSeconds = duration_Seconds.count();
-			infoSheet << "\n\n" << "Total Time in seconds: " << timerSeconds << '\n';
+			if (timerSeconds > 1) {
+				infoSheet << "\n\n" << "Total Time in seconds: " << timerSeconds << '\n';
+			} else if (timerSeconds >= 60) {
+				int minutes = timerSeconds / 60;
+				infoSheet << "\n\n" << "Total Time in minutes: " << minutes << " and " << timerSeconds - (minutes * 60) << "" << '\n';
+			} else {
+				auto duration_Seconds = std::chrono::duration_cast<std::chrono::milliseconds>(duration);
+				timerSeconds = duration_Seconds.count();
+				if (timerSeconds > 1) {
+					if (timerSeconds / 1000 > 0) {
+						infoSheet << "\n\n" << "Total Time in seconds: " << 1 << "." << (timerSeconds - 1000) <<'\n';
+					}
+					else {
+						infoSheet << "\n\n" << "Total Time in milliseconds: " << timerSeconds << '\n';
+					}
+				}
+				else {
+					auto duration_Seconds = std::chrono::duration_cast<std::chrono::microseconds>(duration);
+					timerSeconds = duration_Seconds.count();
+					if (timerSeconds / 1000 > 0) {
+						infoSheet << "\n\n" << "Total Time in milliseconds: " << 1 << "." << (timerSeconds - 1000) << '\n';
+					}
+					else {
+						infoSheet << "\n\n" << "Total Time in microseconds: " << timerSeconds << '\n';
+					}
+				}
+			}
 			infoSheet << "\n\n" << "Nodes Expanded: " << NodesExpanded << '\n';
 			infoSheet << "\n\n" << "TotalNodes Expanded: " << totalNodes << '\n';
 
-			uint64_t memoryBytes = totalNodes * NODE_SIZE + totalNodes * sizeof(uint32_t);
+			int totalBoxes = (InputNode->xBoxes.size() + InputNode->specialBoxes.size());
 
+			SeanNode::sizeOfNode nodeSizes;
+
+			int totalBoxSize = (nodeSizes.xBox - 32) + (nodeSizes.SpBox - 32); //take out the vectors so we can cacualtate all the std::pair sizes so 12 each
+			totalBoxSize = totalBoxSize * totalBoxes; // multiply totalBoxes by the std::pair<int,int> size so 12 * TotalBoxes
+			totalBoxSize = totalBoxSize + 64; //add both vectors back into the total byte size
+			
+			int trueNodeSize = nodeSizes.total + totalBoxSize; //this will give us the base components in bytes + the boxes in vector
+			infoSheet << "\n\n" << "Node Size: " << trueNodeSize << " Bytes" << '\n';
+
+			uint64_t memoryBytes = ((totalNodes * trueNodeSize) + (totalNodes * sizeof(uint32_t))); //the right agurment accounts of the Hash of stored ints
+			memoryBytes = memoryBytes * 8; //this gets us closer to the real value not sure what im not accounting for
 			if (memoryBytes >= std::giga::num) {
 				infoSheet << "\n\n" << "Estimated Memory: " << ((float)memoryBytes / std::giga::num) << " (GB)" << '\n';
 			}

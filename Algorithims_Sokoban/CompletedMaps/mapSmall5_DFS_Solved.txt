@@ -1,0 +1,284 @@
+
+Step: 1
+OOOOOO
+O    O
+O  OAO
+O   RO
+OB   O
+OOOOOO
+
+
+Step: 2
+OOOOOO
+O    O
+O  OaO
+O   AO
+OB  RO
+OOOOOO
+
+
+Step: 3
+OOOOOO
+O    O
+O  OaO
+O   AO
+OB R O
+OOOOOO
+
+
+Step: 4
+OOOOOO
+O    O
+O  OaO
+O  RAO
+OB   O
+OOOOOO
+
+
+Step: 5
+OOOOOO
+O    O
+O  OaO
+O RA O
+OB   O
+OOOOOO
+
+
+Step: 6
+OOOOOO
+O    O
+O  OaO
+ORA  O
+OB   O
+OOOOOO
+
+
+Step: 7
+OOOOOO
+O    O
+OR OaO
+O A  O
+OB   O
+OOOOOO
+
+
+Step: 8
+OOOOOO
+O    O
+O ROaO
+O A  O
+OB   O
+OOOOOO
+
+
+Step: 9
+OOOOOO
+O R  O
+O AOaO
+O    O
+OB   O
+OOOOOO
+
+
+Step: 10
+OOOOOO
+O  R O
+O AOaO
+O    O
+OB   O
+OOOOOO
+
+
+Step: 11
+OOOOOO
+O   RO
+O AOaO
+O    O
+OB   O
+OOOOOO
+
+
+Step: 12
+OOOOOO
+O    O
+O AORO
+O    O
+OB   O
+OOOOOO
+
+
+Step: 13
+OOOOOO
+O    O
+O AOaO
+O   RO
+OB   O
+OOOOOO
+
+
+Step: 14
+OOOOOO
+O    O
+O AOaO
+O  R O
+OB   O
+OOOOOO
+
+
+Step: 15
+OOOOOO
+O    O
+O AOaO
+O R  O
+OB   O
+OOOOOO
+
+
+Step: 16
+OOOOOO
+O    O
+O AOaO
+OR   O
+OB   O
+OOOOOO
+
+
+Step: 17
+OOOOOO
+O    O
+ORAOaO
+OB   O
+Ob   O
+OOOOOO
+
+
+Step: 18
+OOOOOO
+OR   O
+O AOaO
+OB   O
+Ob   O
+OOOOOO
+
+
+Step: 19
+OOOOOO
+O R  O
+O AOaO
+OB   O
+Ob   O
+OOOOOO
+
+
+Step: 20
+OOOOOO
+O  R O
+O AOaO
+OB   O
+Ob   O
+OOOOOO
+
+
+Step: 21
+OOOOOO
+O   RO
+O AOaO
+OB   O
+Ob   O
+OOOOOO
+
+
+Step: 22
+OOOOOO
+O    O
+O AORO
+OB   O
+Ob   O
+OOOOOO
+
+
+Step: 23
+OOOOOO
+O    O
+O AOaO
+OB  RO
+Ob   O
+OOOOOO
+
+
+Step: 24
+OOOOOO
+O    O
+O AOaO
+OB R O
+Ob   O
+OOOOOO
+
+
+Step: 25
+OOOOOO
+O    O
+O AOaO
+OBR  O
+Ob   O
+OOOOOO
+
+
+Step: 26
+OOOOOO
+O    O
+O AOaO
+O BR O
+Ob   O
+OOOOOO
+
+
+Step: 27
+OOOOOO
+O    O
+O AOaO
+O B RO
+Ob   O
+OOOOOO
+
+
+Step: 28
+OOOOOO
+O    O
+O AORO
+O B  O
+Ob   O
+OOOOOO
+
+
+Step: 29
+OOOOOO
+O   RO
+O AOaO
+O B  O
+Ob   O
+OOOOOO
+
+
+Step: 30
+OOOOOO
+O  R O
+O AOaO
+O B  O
+Ob   O
+OOOOOO
+
+
+
+Total Steps to Destination: 30
+
+Total Time in milliseconds: 3
+
+
+Nodes Expanded: 54
+
+
+TotalNodes Expanded: 73
+
+
+Estimated Memory: 8.468 (KB)

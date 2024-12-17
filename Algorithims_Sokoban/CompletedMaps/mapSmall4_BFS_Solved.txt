@@ -1,0 +1,215 @@
+
+Step: 1
+OOOOOOO
+O     O
+O  O  O
+OOR   O
+OZA  BO
+OOOOOOO
+
+
+Step: 2
+OOOOOOO
+O     O
+O RO  O
+OOA   O
+OZa  BO
+OOOOOOO
+
+
+Step: 3
+OOOOOOO
+O R   O
+O  O  O
+OOA   O
+OZa  BO
+OOOOOOO
+
+
+Step: 4
+OOOOOOO
+O  R  O
+O  O  O
+OOA   O
+OZa  BO
+OOOOOOO
+
+
+Step: 5
+OOOOOOO
+O   R O
+O  O  O
+OOA   O
+OZa  BO
+OOOOOOO
+
+
+Step: 6
+OOOOOOO
+O     O
+O  OR O
+OOA   O
+OZa  BO
+OOOOOOO
+
+
+Step: 7
+OOOOOOO
+O     O
+O  O  O
+OOA R O
+OZa  BO
+OOOOOOO
+
+
+Step: 8
+OOOOOOO
+O     O
+O  O  O
+OOA   O
+OZa RBO
+OOOOOOO
+
+
+Step: 9
+OOOOOOO
+O     O
+O  O  O
+OOA   O
+OZaRBbO
+OOOOOOO
+
+
+Step: 10
+OOOOOOO
+O     O
+O  O  O
+OOA   O
+OZR BbO
+OOOOOOO
+
+
+Step: 11
+OOOOOOO
+O     O
+O  O  O
+OOA   O
+OSXRBbO
+OOOOOOO
+
+
+Step: 12
+OOOOOOO
+O     O
+O  O  O
+OOAR  O
+OSX BbO
+OOOOOOO
+
+
+Step: 13
+OOOOOOO
+O     O
+O  O  O
+OO AR O
+OSX BbO
+OOOOOOO
+
+
+Step: 14
+OOOOOOO
+O     O
+O  OR O
+OO AB O
+OSX  bO
+OOOOOOO
+
+
+Step: 15
+OOOOOOO
+O   R O
+O  O  O
+OO AB O
+OSX  bO
+OOOOOOO
+
+
+Step: 16
+OOOOOOO
+O  R  O
+O  O  O
+OO AB O
+OSX  bO
+OOOOOOO
+
+
+Step: 17
+OOOOOOO
+O R   O
+O  O  O
+OO AB O
+OSX  bO
+OOOOOOO
+
+
+Step: 18
+OOOOOOO
+O     O
+O RO  O
+OO AB O
+OSX  bO
+OOOOOOO
+
+
+Step: 19
+OOOOOOO
+O     O
+O  O  O
+OORAB O
+OSX  bO
+OOOOOOO
+
+
+Step: 20
+OOOOOOO
+O     O
+O RO  O
+OOXAB O
+OSa  bO
+OOOOOOO
+
+
+Step: 21
+OOOOOOO
+O R   O
+O XO  O
+OO AB O
+OSa  bO
+OOOOOOO
+
+
+Step: 22
+OOOOOOO
+O  R  O
+O XO  O
+OO AB O
+OSa  bO
+OOOOOOO
+
+
+
+Total Steps to Destination: 22
+
+Total Time in milliseconds: 226
+
+
+Nodes Expanded: 3026
+
+
+TotalNodes Expanded: 1365
+
+
+Node Size: 144 Bytes
+
+
+Estimated Memory: 202.02 (KB)

@@ -1,0 +1,4648 @@
+
+Step: 1
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O      O
+OAR   ZO
+OOOOOOOO
+
+
+Step: 2
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O      O
+OaAR  ZO
+OOOOOOOO
+
+
+Step: 3
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O      O
+Oa AR ZO
+OOOOOOOO
+
+
+Step: 4
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O   R  O
+Oa A  ZO
+OOOOOOOO
+
+
+Step: 5
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O    R O
+Oa A  ZO
+OOOOOOOO
+
+
+Step: 6
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O     RO
+Oa A  ZO
+OOOOOOOO
+
+
+Step: 7
+OOOOOOOO
+O      O
+O      O
+O      O
+O     RO
+O     XO
+Oa A  SO
+OOOOOOOO
+
+
+Step: 8
+OOOOOOOO
+O      O
+O      O
+O      O
+O    R O
+O     XO
+Oa A  SO
+OOOOOOOO
+
+
+Step: 9
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O    RXO
+Oa A  SO
+OOOOOOOO
+
+
+Step: 10
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O     XO
+Oa A RSO
+OOOOOOOO
+
+
+Step: 11
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O     XO
+Oa AR SO
+OOOOOOOO
+
+
+Step: 12
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O     XO
+Oa  ARSO
+OOOOOOOO
+
+
+Step: 13
+OOOOOOOO
+O      O
+O      O
+O      O
+O      O
+O    RXO
+Oa  A SO
+OOOOOOOO
+
+
+Step: 14
+OOOOOOOO
+O      O
+O      O
+O      O
+O    R O
+O     XO
+Oa  A SO
+OOOOOOOO
+
+
+Step: 15
+OOOOOOOO
+O      O
+O      O
+O      O
+O     RO
+O     XO
+Oa  A SO
+OOOOOOOO
+
+
+Step: 16
+OOOOOOOO
+O      O
+O      O
+O     RO
+O     XO
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 17
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O      O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 18
+OOOOOOOO
+O      O
+O    R O
+O     XO
+O      O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 19
+OOOOOOOO
+O      O
+O   R  O
+O     XO
+O      O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 20
+OOOOOOOO
+O      O
+O  R   O
+O     XO
+O      O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 21
+OOOOOOOO
+O      O
+O R    O
+O     XO
+O      O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 22
+OOOOOOOO
+O      O
+OR     O
+O     XO
+O      O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 23
+OOOOOOOO
+O      O
+O      O
+OR    XO
+O      O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 24
+OOOOOOOO
+O      O
+O      O
+O     XO
+OR     O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 25
+OOOOOOOO
+O      O
+O      O
+O     XO
+O R    O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 26
+OOOOOOOO
+O      O
+O      O
+O     XO
+O  R   O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 27
+OOOOOOOO
+O      O
+O      O
+O     XO
+O   R  O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 28
+OOOOOOOO
+O      O
+O      O
+O     XO
+O    R O
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 29
+OOOOOOOO
+O      O
+O      O
+O     XO
+O     RO
+O      O
+Oa  A SO
+OOOOOOOO
+
+
+Step: 30
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O     RO
+Oa  A SO
+OOOOOOOO
+
+
+Step: 31
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O      O
+Oa  A RO
+OOOOOOOO
+
+
+Step: 32
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O      O
+Oa  ARSO
+OOOOOOOO
+
+
+Step: 33
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O      O
+Oa   ARO
+OOOOOOOO
+
+
+Step: 34
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O     RO
+Oa   ASO
+OOOOOOOO
+
+
+Step: 35
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O    R O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 36
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O   R  O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 37
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O  R   O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 38
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O R    O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 39
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+OR     O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 40
+OOOOOOOO
+O      O
+O      O
+O      O
+OR    XO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 41
+OOOOOOOO
+O      O
+O      O
+OR     O
+O     XO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 42
+OOOOOOOO
+O      O
+O      O
+O R    O
+O     XO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 43
+OOOOOOOO
+O      O
+O      O
+O  R   O
+O     XO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 44
+OOOOOOOO
+O      O
+O      O
+O   R  O
+O     XO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 45
+OOOOOOOO
+O      O
+O      O
+O    R O
+O     XO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 46
+OOOOOOOO
+O      O
+O      O
+O     RO
+O     XO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 47
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 48
+OOOOOOOO
+O     RO
+O     XO
+O      O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 49
+OOOOOOOO
+O    R O
+O     XO
+O      O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 50
+OOOOOOOO
+O   R  O
+O     XO
+O      O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 51
+OOOOOOOO
+O  R   O
+O     XO
+O      O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 52
+OOOOOOOO
+O R    O
+O     XO
+O      O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 53
+OOOOOOOO
+OR     O
+O     XO
+O      O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 54
+OOOOOOOO
+O      O
+OR    XO
+O      O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 55
+OOOOOOOO
+O      O
+O     XO
+OR     O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 56
+OOOOOOOO
+O      O
+O     XO
+O R    O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 57
+OOOOOOOO
+O      O
+O     XO
+O  R   O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 58
+OOOOOOOO
+O      O
+O     XO
+O   R  O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 59
+OOOOOOOO
+O      O
+O     XO
+O    R O
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 60
+OOOOOOOO
+O      O
+O     XO
+O     RO
+O      O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 61
+OOOOOOOO
+O      O
+O      O
+O     XO
+O     RO
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 62
+OOOOOOOO
+O      O
+O      O
+O     XO
+O    R O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 63
+OOOOOOOO
+O      O
+O      O
+O     XO
+O   R  O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 64
+OOOOOOOO
+O      O
+O      O
+O     XO
+O  R   O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 65
+OOOOOOOO
+O      O
+O      O
+O     XO
+O R    O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 66
+OOOOOOOO
+O      O
+O      O
+O     XO
+OR     O
+O      O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 67
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+OR     O
+Oa   ASO
+OOOOOOOO
+
+
+Step: 68
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O      O
+OR   ASO
+OOOOOOOO
+
+
+Step: 69
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O      O
+OaR  ASO
+OOOOOOOO
+
+
+Step: 70
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O      O
+Oa R ASO
+OOOOOOOO
+
+
+Step: 71
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O      O
+Oa  RASO
+OOOOOOOO
+
+
+Step: 72
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O      O
+Oa RA SO
+OOOOOOOO
+
+
+Step: 73
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O      O
+OaRA  SO
+OOOOOOOO
+
+
+Step: 74
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O      O
+OR A  SO
+OOOOOOOO
+
+
+Step: 75
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+OR     O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 76
+OOOOOOOO
+O      O
+O      O
+O     XO
+OR     O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 77
+OOOOOOOO
+O      O
+O      O
+OR    XO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 78
+OOOOOOOO
+O      O
+OR     O
+O     XO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 79
+OOOOOOOO
+O      O
+O R    O
+O     XO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 80
+OOOOOOOO
+O      O
+O  R   O
+O     XO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 81
+OOOOOOOO
+O      O
+O   R  O
+O     XO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 82
+OOOOOOOO
+O      O
+O    R O
+O     XO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 83
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 84
+OOOOOOOO
+O     RO
+O     XO
+O      O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 85
+OOOOOOOO
+O    R O
+O     XO
+O      O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 86
+OOOOOOOO
+O   R  O
+O     XO
+O      O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 87
+OOOOOOOO
+O  R   O
+O     XO
+O      O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 88
+OOOOOOOO
+O R    O
+O     XO
+O      O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 89
+OOOOOOOO
+OR     O
+O     XO
+O      O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 90
+OOOOOOOO
+O      O
+OR    XO
+O      O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 91
+OOOOOOOO
+O      O
+O     XO
+OR     O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 92
+OOOOOOOO
+O      O
+O     XO
+O R    O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 93
+OOOOOOOO
+O      O
+O     XO
+O  R   O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 94
+OOOOOOOO
+O      O
+O     XO
+O   R  O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 95
+OOOOOOOO
+O      O
+O     XO
+O    R O
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 96
+OOOOOOOO
+O      O
+O     XO
+O     RO
+O      O
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 97
+OOOOOOOO
+O      O
+O      O
+O     XO
+O     RO
+O      O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 98
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O     RO
+Oa A  SO
+OOOOOOOO
+
+
+Step: 99
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O    R O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 100
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O   R  O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 101
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O  R   O
+Oa A  SO
+OOOOOOOO
+
+
+Step: 102
+OOOOOOOO
+O      O
+O      O
+O     XO
+O  R   O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 103
+OOOOOOOO
+O      O
+O      O
+O     XO
+O R    O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 104
+OOOOOOOO
+O      O
+O      O
+O     XO
+OR     O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 105
+OOOOOOOO
+O      O
+O      O
+OR    XO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 106
+OOOOOOOO
+O      O
+OR     O
+O     XO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 107
+OOOOOOOO
+O      O
+O R    O
+O     XO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 108
+OOOOOOOO
+O      O
+O  R   O
+O     XO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 109
+OOOOOOOO
+O      O
+O   R  O
+O     XO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 110
+OOOOOOOO
+O      O
+O    R O
+O     XO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 111
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 112
+OOOOOOOO
+O     RO
+O     XO
+O      O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 113
+OOOOOOOO
+O    R O
+O     XO
+O      O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 114
+OOOOOOOO
+O   R  O
+O     XO
+O      O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 115
+OOOOOOOO
+O  R   O
+O     XO
+O      O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 116
+OOOOOOOO
+O R    O
+O     XO
+O      O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 117
+OOOOOOOO
+OR     O
+O     XO
+O      O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 118
+OOOOOOOO
+O      O
+OR    XO
+O      O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 119
+OOOOOOOO
+O      O
+O     XO
+OR     O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 120
+OOOOOOOO
+O      O
+O     XO
+O R    O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 121
+OOOOOOOO
+O      O
+O     XO
+O  R   O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 122
+OOOOOOOO
+O      O
+O     XO
+O   R  O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 123
+OOOOOOOO
+O      O
+O     XO
+O    R O
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 124
+OOOOOOOO
+O      O
+O     XO
+O     RO
+O      O
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 125
+OOOOOOOO
+O      O
+O      O
+O     XO
+O     RO
+O  A   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 126
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O  A  RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 127
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O  A R O
+Oa    SO
+OOOOOOOO
+
+
+Step: 128
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O  AR  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 129
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O   AR O
+Oa    SO
+OOOOOOOO
+
+
+Step: 130
+OOOOOOOO
+O      O
+O      O
+O     XO
+O    R O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 131
+OOOOOOOO
+O      O
+O      O
+O     XO
+O     RO
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 132
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O   A RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 133
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O   AR O
+Oa    SO
+OOOOOOOO
+
+
+Step: 134
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O    ARO
+Oa    SO
+OOOOOOOO
+
+
+Step: 135
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O    A O
+Oa    RO
+OOOOOOOO
+
+
+Step: 136
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O    A O
+Oa   RSO
+OOOOOOOO
+
+
+Step: 137
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O    A O
+Oa  R SO
+OOOOOOOO
+
+
+Step: 138
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O   RA O
+Oa    SO
+OOOOOOOO
+
+
+Step: 139
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O  R A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 140
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+O R  A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 141
+OOOOOOOO
+O      O
+O      O
+O      O
+O     XO
+OR   A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 142
+OOOOOOOO
+O      O
+O      O
+O      O
+OR    XO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 143
+OOOOOOOO
+O      O
+O      O
+OR     O
+O     XO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 144
+OOOOOOOO
+O      O
+O      O
+O R    O
+O     XO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 145
+OOOOOOOO
+O      O
+O      O
+O  R   O
+O     XO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 146
+OOOOOOOO
+O      O
+O      O
+O   R  O
+O     XO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 147
+OOOOOOOO
+O      O
+O      O
+O    R O
+O     XO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 148
+OOOOOOOO
+O      O
+O      O
+O     RO
+O     XO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 149
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O      O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 150
+OOOOOOOO
+O      O
+O    R O
+O     XO
+O      O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 151
+OOOOOOOO
+O      O
+O      O
+O    RXO
+O      O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 152
+OOOOOOOO
+O      O
+O      O
+O   R XO
+O      O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 153
+OOOOOOOO
+O      O
+O      O
+O  R  XO
+O      O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 154
+OOOOOOOO
+O      O
+O      O
+O R   XO
+O      O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 155
+OOOOOOOO
+O      O
+O      O
+OR    XO
+O      O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 156
+OOOOOOOO
+O      O
+O      O
+O     XO
+OR     O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 157
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+OR   A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 158
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O R  A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 159
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O  R A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 160
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O   RA O
+Oa    SO
+OOOOOOOO
+
+
+Step: 161
+OOOOOOOO
+O      O
+O      O
+O     XO
+O      O
+O  RA  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 162
+OOOOOOOO
+O      O
+O      O
+O     XO
+O  R   O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 163
+OOOOOOOO
+O      O
+O      O
+O     XO
+O R    O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 164
+OOOOOOOO
+O      O
+O      O
+O     XO
+OR     O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 165
+OOOOOOOO
+O      O
+O      O
+OR    XO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 166
+OOOOOOOO
+O      O
+OR     O
+O     XO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 167
+OOOOOOOO
+O      O
+O R    O
+O     XO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 168
+OOOOOOOO
+O      O
+O  R   O
+O     XO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 169
+OOOOOOOO
+O      O
+O   R  O
+O     XO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 170
+OOOOOOOO
+O      O
+O    R O
+O     XO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 171
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 172
+OOOOOOOO
+O     RO
+O     XO
+O      O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 173
+OOOOOOOO
+O    R O
+O     XO
+O      O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 174
+OOOOOOOO
+O   R  O
+O     XO
+O      O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 175
+OOOOOOOO
+O  R   O
+O     XO
+O      O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 176
+OOOOOOOO
+O R    O
+O     XO
+O      O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 177
+OOOOOOOO
+OR     O
+O     XO
+O      O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 178
+OOOOOOOO
+O      O
+OR    XO
+O      O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 179
+OOOOOOOO
+O      O
+O     XO
+OR     O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 180
+OOOOOOOO
+O      O
+O     XO
+O R    O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 181
+OOOOOOOO
+O      O
+O     XO
+O  R   O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 182
+OOOOOOOO
+O      O
+O     XO
+O   R  O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 183
+OOOOOOOO
+O      O
+O     XO
+O    R O
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 184
+OOOOOOOO
+O      O
+O     XO
+O     RO
+O      O
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 185
+OOOOOOOO
+O      O
+O     XO
+O      O
+O     RO
+O   A  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 186
+OOOOOOOO
+O      O
+O     XO
+O      O
+O      O
+O   A RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 187
+OOOOOOOO
+O      O
+O     XO
+O      O
+O      O
+O   AR O
+Oa    SO
+OOOOOOOO
+
+
+Step: 188
+OOOOOOOO
+O      O
+O     XO
+O      O
+O      O
+O    ARO
+Oa    SO
+OOOOOOOO
+
+
+Step: 189
+OOOOOOOO
+O      O
+O     XO
+O      O
+O     RO
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 190
+OOOOOOOO
+O      O
+O     XO
+O      O
+O    R O
+O    A O
+Oa    SO
+OOOOOOOO
+
+
+Step: 191
+OOOOOOOO
+O      O
+O     XO
+O    R O
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 192
+OOOOOOOO
+O      O
+O     XO
+O     RO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 193
+OOOOOOOO
+O      O
+O      O
+O     XO
+O    ARO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 194
+OOOOOOOO
+O      O
+O      O
+O      O
+O    AXO
+O     RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 195
+OOOOOOOO
+O      O
+O      O
+O      O
+O    AXO
+O    R O
+Oa    SO
+OOOOOOOO
+
+
+Step: 196
+OOOOOOOO
+O      O
+O      O
+O      O
+O    AXO
+O   R  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 197
+OOOOOOOO
+O      O
+O      O
+O      O
+O    AXO
+O  R   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 198
+OOOOOOOO
+O      O
+O      O
+O      O
+O    AXO
+O R    O
+Oa    SO
+OOOOOOOO
+
+
+Step: 199
+OOOOOOOO
+O      O
+O      O
+O      O
+O    AXO
+OR     O
+Oa    SO
+OOOOOOOO
+
+
+Step: 200
+OOOOOOOO
+O      O
+O      O
+O      O
+OR   AXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 201
+OOOOOOOO
+O      O
+O      O
+OR     O
+O    AXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 202
+OOOOOOOO
+O      O
+O      O
+O R    O
+O    AXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 203
+OOOOOOOO
+O      O
+O      O
+O  R   O
+O    AXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 204
+OOOOOOOO
+O      O
+O      O
+O   R  O
+O    AXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 205
+OOOOOOOO
+O      O
+O      O
+O    R O
+O    AXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 206
+OOOOOOOO
+O      O
+O      O
+O     RO
+O    AXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 207
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 208
+OOOOOOOO
+O     RO
+O      O
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 209
+OOOOOOOO
+O    R O
+O      O
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 210
+OOOOOOOO
+O   R  O
+O      O
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 211
+OOOOOOOO
+O  R   O
+O      O
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 212
+OOOOOOOO
+O R    O
+O      O
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 213
+OOOOOOOO
+OR     O
+O      O
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 214
+OOOOOOOO
+O      O
+OR     O
+O     XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 215
+OOOOOOOO
+O      O
+O      O
+OR    XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 216
+OOOOOOOO
+O      O
+O      O
+O R   XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 217
+OOOOOOOO
+O      O
+O      O
+O  R  XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 218
+OOOOOOOO
+O      O
+O      O
+O   R XO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 219
+OOOOOOOO
+O      O
+O      O
+O    RXO
+O    A O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 220
+OOOOOOOO
+O      O
+O    R O
+O    AXO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 221
+OOOOOOOO
+O      O
+O     RO
+O    AXO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 222
+OOOOOOOO
+O     RO
+O     XO
+O    A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 223
+OOOOOOOO
+O    R O
+O     XO
+O    A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 224
+OOOOOOOO
+O   R  O
+O     XO
+O    A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 225
+OOOOOOOO
+O  R   O
+O     XO
+O    A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 226
+OOOOOOOO
+O R    O
+O     XO
+O    A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 227
+OOOOOOOO
+OR     O
+O     XO
+O    A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 228
+OOOOOOOO
+O      O
+OR    XO
+O    A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 229
+OOOOOOOO
+O      O
+O     XO
+OR   A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 230
+OOOOOOOO
+O      O
+O     XO
+O R  A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 231
+OOOOOOOO
+O      O
+O     XO
+O  R A O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 232
+OOOOOOOO
+O      O
+O     XO
+O   RA O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 233
+OOOOOOOO
+O      O
+O     XO
+O  RA  O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 234
+OOOOOOOO
+O      O
+O     XO
+O R A  O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 235
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O R    O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 236
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+OR     O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 237
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+OR     O
+Oa    SO
+OOOOOOOO
+
+
+Step: 238
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+O      O
+OR    SO
+OOOOOOOO
+
+
+Step: 239
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+O      O
+OaR   SO
+OOOOOOOO
+
+
+Step: 240
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+O      O
+Oa R  SO
+OOOOOOOO
+
+
+Step: 241
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+O      O
+Oa  R SO
+OOOOOOOO
+
+
+Step: 242
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+O      O
+Oa   RSO
+OOOOOOOO
+
+
+Step: 243
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+O      O
+Oa    RO
+OOOOOOOO
+
+
+Step: 244
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O      O
+O     RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 245
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O     RO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 246
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O    R O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 247
+OOOOOOOO
+O      O
+O     XO
+O   A  O
+O   R  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 248
+OOOOOOOO
+O      O
+O     XO
+O      O
+O   A  O
+O   R  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 249
+OOOOOOOO
+O      O
+O     XO
+O      O
+O   A  O
+O  R   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 250
+OOOOOOOO
+O      O
+O     XO
+O      O
+O   A  O
+O R    O
+Oa    SO
+OOOOOOOO
+
+
+Step: 251
+OOOOOOOO
+O      O
+O     XO
+O      O
+O   A  O
+OR     O
+Oa    SO
+OOOOOOOO
+
+
+Step: 252
+OOOOOOOO
+O      O
+O     XO
+O      O
+OR  A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 253
+OOOOOOOO
+O      O
+O     XO
+OR     O
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 254
+OOOOOOOO
+O      O
+O     XO
+O R    O
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 255
+OOOOOOOO
+O      O
+O     XO
+O  R   O
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 256
+OOOOOOOO
+O      O
+O     XO
+O   R  O
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 257
+OOOOOOOO
+O      O
+O     XO
+O    R O
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 258
+OOOOOOOO
+O      O
+O     XO
+O     RO
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 259
+OOOOOOOO
+O      O
+O      O
+O     XO
+O   A RO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 260
+OOOOOOOO
+O      O
+O      O
+O      O
+O   A XO
+O     RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 261
+OOOOOOOO
+O      O
+O      O
+O      O
+O   A XO
+O    R O
+Oa    SO
+OOOOOOOO
+
+
+Step: 262
+OOOOOOOO
+O      O
+O      O
+O      O
+O   A XO
+O   R  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 263
+OOOOOOOO
+O      O
+O      O
+O      O
+O   A XO
+O  R   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 264
+OOOOOOOO
+O      O
+O      O
+O      O
+O   A XO
+O R    O
+Oa    SO
+OOOOOOOO
+
+
+Step: 265
+OOOOOOOO
+O      O
+O      O
+O      O
+O   A XO
+OR     O
+Oa    SO
+OOOOOOOO
+
+
+Step: 266
+OOOOOOOO
+O      O
+O      O
+O      O
+OR  A XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 267
+OOOOOOOO
+O      O
+O      O
+OR     O
+O   A XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 268
+OOOOOOOO
+O      O
+O      O
+O R    O
+O   A XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 269
+OOOOOOOO
+O      O
+O      O
+O  R   O
+O   A XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 270
+OOOOOOOO
+O      O
+O      O
+O   R  O
+O   A XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 271
+OOOOOOOO
+O      O
+O      O
+O    R O
+O   A XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 272
+OOOOOOOO
+O      O
+O      O
+O     RO
+O   A XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 273
+OOOOOOOO
+O      O
+O     RO
+O     XO
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 274
+OOOOOOOO
+O      O
+O    R O
+O     XO
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 275
+OOOOOOOO
+O      O
+O      O
+O    RXO
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 276
+OOOOOOOO
+O      O
+O      O
+O   R XO
+O   A  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 277
+OOOOOOOO
+O      O
+O   R  O
+O   A XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 278
+OOOOOOOO
+O      O
+O  R   O
+O   A XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 279
+OOOOOOOO
+O      O
+O R    O
+O   A XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 280
+OOOOOOOO
+O      O
+OR     O
+O   A XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 281
+OOOOOOOO
+O      O
+O      O
+OR  A XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 282
+OOOOOOOO
+O      O
+O      O
+O   A XO
+OR     O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 283
+OOOOOOOO
+O      O
+O      O
+O   A XO
+O R    O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 284
+OOOOOOOO
+O      O
+O      O
+O   A XO
+O  R   O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 285
+OOOOOOOO
+O      O
+O      O
+O   A XO
+O   R  O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 286
+OOOOOOOO
+O      O
+O      O
+O   A XO
+O    R O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 287
+OOOOOOOO
+O      O
+O      O
+O   A XO
+O     RO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 288
+OOOOOOOO
+O      O
+O      O
+O   A  O
+O     XO
+O     RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 289
+OOOOOOOO
+O      O
+O      O
+O   A  O
+O     XO
+O    R O
+Oa    SO
+OOOOOOOO
+
+
+Step: 290
+OOOOOOOO
+O      O
+O      O
+O   A  O
+O     XO
+O   R  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 291
+OOOOOOOO
+O      O
+O      O
+O   A  O
+O     XO
+O  R   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 292
+OOOOOOOO
+O      O
+O      O
+O   A  O
+O     XO
+O R    O
+Oa    SO
+OOOOOOOO
+
+
+Step: 293
+OOOOOOOO
+O      O
+O      O
+O   A  O
+O R   XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 294
+OOOOOOOO
+O      O
+O      O
+O   A  O
+OR    XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 295
+OOOOOOOO
+O      O
+O      O
+OR  A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 296
+OOOOOOOO
+O      O
+OR     O
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 297
+OOOOOOOO
+OR     O
+O      O
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 298
+OOOOOOOO
+O R    O
+O      O
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 299
+OOOOOOOO
+O  R   O
+O      O
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 300
+OOOOOOOO
+O   R  O
+O      O
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 301
+OOOOOOOO
+O    R O
+O      O
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 302
+OOOOOOOO
+O     RO
+O      O
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 303
+OOOOOOOO
+O      O
+O     RO
+O   A  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 304
+OOOOOOOO
+O      O
+O      O
+O   A RO
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 305
+OOOOOOOO
+O      O
+O      O
+O   AR O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 306
+OOOOOOOO
+O      O
+O      O
+O    ARO
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 307
+OOOOOOOO
+O      O
+O     RO
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 308
+OOOOOOOO
+O     RO
+O      O
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 309
+OOOOOOOO
+O    R O
+O      O
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 310
+OOOOOOOO
+O   R  O
+O      O
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 311
+OOOOOOOO
+O  R   O
+O      O
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 312
+OOOOOOOO
+O R    O
+O      O
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 313
+OOOOOOOO
+OR     O
+O      O
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 314
+OOOOOOOO
+O      O
+OR     O
+O    A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 315
+OOOOOOOO
+O      O
+O      O
+OR   A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 316
+OOOOOOOO
+O      O
+O      O
+O R  A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 317
+OOOOOOOO
+O      O
+O      O
+O  R A O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 318
+OOOOOOOO
+O      O
+O      O
+O   RA O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 319
+OOOOOOOO
+O      O
+O      O
+O  RA  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 320
+OOOOOOOO
+O      O
+O      O
+O RA   O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 321
+OOOOOOOO
+O      O
+O      O
+OR A   O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 322
+OOOOOOOO
+O      O
+O      O
+O  A   O
+OR    XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 323
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O     XO
+OR     O
+Oa    SO
+OOOOOOOO
+
+
+Step: 324
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O     XO
+O R    O
+Oa    SO
+OOOOOOOO
+
+
+Step: 325
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O     XO
+O  R   O
+Oa    SO
+OOOOOOOO
+
+
+Step: 326
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O     XO
+O   R  O
+Oa    SO
+OOOOOOOO
+
+
+Step: 327
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O     XO
+O    R O
+Oa    SO
+OOOOOOOO
+
+
+Step: 328
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O     XO
+O     RO
+Oa    SO
+OOOOOOOO
+
+
+Step: 329
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O      O
+O     XO
+Oa    RO
+OOOOOOOO
+
+
+Step: 330
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O      O
+O     XO
+Oa   RSO
+OOOOOOOO
+
+
+Step: 331
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O      O
+O     XO
+Oa  R SO
+OOOOOOOO
+
+
+Step: 332
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O      O
+O     XO
+Oa R  SO
+OOOOOOOO
+
+
+Step: 333
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O      O
+O     XO
+OaR   SO
+OOOOOOOO
+
+
+Step: 334
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O      O
+O     XO
+OR    SO
+OOOOOOOO
+
+
+Step: 335
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O      O
+OR    XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 336
+OOOOOOOO
+O      O
+O      O
+O  A   O
+OR     O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 337
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O R    O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 338
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O  R   O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 339
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O   R  O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 340
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O    R O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 341
+OOOOOOOO
+O      O
+O      O
+O  A   O
+O     RO
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 342
+OOOOOOOO
+O      O
+O      O
+O  A  RO
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 343
+OOOOOOOO
+O      O
+O     RO
+O  A   O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 344
+OOOOOOOO
+O      O
+O    R O
+O  A   O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 345
+OOOOOOOO
+O      O
+O   R  O
+O  A   O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 346
+OOOOOOOO
+O      O
+O  R   O
+O  A   O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 347
+OOOOOOOO
+O  R   O
+O  A   O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 348
+OOOOOOOO
+O R    O
+O  A   O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 349
+OOOOOOOO
+O      O
+O RA   O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 350
+OOOOOOOO
+O      O
+OR A   O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 351
+OOOOOOOO
+O      O
+O  A   O
+OR     O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 352
+OOOOOOOO
+O      O
+O  A   O
+O      O
+OR     O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 353
+OOOOOOOO
+O      O
+O  A   O
+O      O
+O R    O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 354
+OOOOOOOO
+O      O
+O  A   O
+O      O
+O  R   O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 355
+OOOOOOOO
+O      O
+O  A   O
+O      O
+O   R  O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 356
+OOOOOOOO
+O      O
+O  A   O
+O      O
+O    R O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 357
+OOOOOOOO
+O      O
+O  A   O
+O      O
+O     RO
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 358
+OOOOOOOO
+O      O
+O  A   O
+O     RO
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 359
+OOOOOOOO
+O      O
+O  A  RO
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 360
+OOOOOOOO
+O      O
+O  A R O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 361
+OOOOOOOO
+O      O
+O  AR  O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 362
+OOOOOOOO
+O      O
+O   AR O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 363
+OOOOOOOO
+O      O
+O    ARO
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 364
+OOOOOOOO
+O      O
+O    A O
+O     RO
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 365
+OOOOOOOO
+O      O
+O    A O
+O    R O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 366
+OOOOOOOO
+O      O
+O    A O
+O      O
+O    R O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 367
+OOOOOOOO
+O      O
+O    A O
+O      O
+O   R  O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 368
+OOOOOOOO
+O      O
+O    A O
+O      O
+O  R   O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 369
+OOOOOOOO
+O      O
+O    A O
+O      O
+O R    O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 370
+OOOOOOOO
+O      O
+O    A O
+O      O
+OR     O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 371
+OOOOOOOO
+O      O
+O    A O
+OR     O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 372
+OOOOOOOO
+O      O
+OR   A O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 373
+OOOOOOOO
+O      O
+O R  A O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 374
+OOOOOOOO
+O      O
+O  R A O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 375
+OOOOOOOO
+O      O
+O   RA O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 376
+OOOOOOOO
+O      O
+O  RA  O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 377
+OOOOOOOO
+O      O
+O R A  O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 378
+OOOOOOOO
+O      O
+OR  A  O
+O      O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 379
+OOOOOOOO
+O      O
+O   A  O
+OR     O
+O      O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 380
+OOOOOOOO
+O      O
+O   A  O
+O      O
+OR     O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 381
+OOOOOOOO
+O      O
+O   A  O
+O      O
+O R    O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 382
+OOOOOOOO
+O      O
+O   A  O
+O      O
+O  R   O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 383
+OOOOOOOO
+O      O
+O   A  O
+O      O
+O   R  O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 384
+OOOOOOOO
+O      O
+O   A  O
+O      O
+O    R O
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 385
+OOOOOOOO
+O      O
+O   A  O
+O      O
+O     RO
+O     XO
+Oa    SO
+OOOOOOOO
+
+
+Step: 386
+OOOOOOOO
+O      O
+O   A  O
+O     RO
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 387
+OOOOOOOO
+O      O
+O   A RO
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 388
+OOOOOOOO
+O      O
+O   AR O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 389
+OOOOOOOO
+O      O
+O    ARO
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 390
+OOOOOOOO
+O      O
+O    A O
+O     RO
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 391
+OOOOOOOO
+O      O
+O    A O
+O    R O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 392
+OOOOOOOO
+O      O
+O    A O
+O      O
+O    RXO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 393
+OOOOOOOO
+O      O
+O    A O
+O      O
+O   R XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 394
+OOOOOOOO
+O      O
+O    A O
+O      O
+O  R  XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 395
+OOOOOOOO
+O      O
+O    A O
+O      O
+O R   XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 396
+OOOOOOOO
+O      O
+O    A O
+O      O
+OR    XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 397
+OOOOOOOO
+O      O
+O    A O
+OR     O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 398
+OOOOOOOO
+O      O
+OR   A O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 399
+OOOOOOOO
+O      O
+O R  A O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 400
+OOOOOOOO
+O      O
+O  R A O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 401
+OOOOOOOO
+O      O
+O   RA O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 402
+OOOOOOOO
+O      O
+O  RA  O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 403
+OOOOOOOO
+O      O
+O RA   O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 404
+OOOOOOOO
+O      O
+ORA    O
+O      O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 405
+OOOOOOOO
+O      O
+O A    O
+OR     O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 406
+OOOOOOOO
+O      O
+O A    O
+O R    O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 407
+OOOOOOOO
+O      O
+O A    O
+O  R   O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 408
+OOOOOOOO
+O      O
+O A    O
+O   R  O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 409
+OOOOOOOO
+O      O
+O A    O
+O    R O
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 410
+OOOOOOOO
+O      O
+O A    O
+O     RO
+O     XO
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 411
+OOOOOOOO
+O      O
+O A   RO
+O     XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 412
+OOOOOOOO
+O      O
+O A  R O
+O     XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 413
+OOOOOOOO
+O      O
+O A R  O
+O     XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 414
+OOOOOOOO
+O      O
+O AR   O
+O     XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 415
+OOOOOOOO
+O      O
+O  AR  O
+O     XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 416
+OOOOOOOO
+O      O
+O  A R O
+O     XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 417
+OOOOOOOO
+O      O
+O  A  RO
+O     XO
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 418
+OOOOOOOO
+O     RO
+O  A  XO
+O      O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 419
+OOOOOOOO
+O    R O
+O  A  XO
+O      O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 420
+OOOOOOOO
+O   R  O
+O  A  XO
+O      O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+Step: 421
+OOOOOOOO
+O  R   O
+O  A  XO
+O      O
+O      O
+O      O
+Oa    SO
+OOOOOOOO
+
+
+
+Total Steps to Destination: 421
+
+Total Time in milliseconds: 329
+
+
+Nodes Expanded: 3842
+
+
+TotalNodes Expanded: 4261
+
+
+Node Size: 128 Bytes
+
+
+Estimated Memory: 562.452 (KB)

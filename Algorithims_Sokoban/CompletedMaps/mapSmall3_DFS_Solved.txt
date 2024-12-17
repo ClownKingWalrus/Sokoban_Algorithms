@@ -1,0 +1,212 @@
+
+Step: 1
+OOOOOO
+O    O
+O  O O
+OOR  O
+OZA  O
+OOOOOO
+
+
+Step: 2
+OOOOOO
+O    O
+O RO O
+OOA  O
+OZa  O
+OOOOOO
+
+
+Step: 3
+OOOOOO
+O R  O
+O  O O
+OOA  O
+OZa  O
+OOOOOO
+
+
+Step: 4
+OOOOOO
+O  R O
+O  O O
+OOA  O
+OZa  O
+OOOOOO
+
+
+Step: 5
+OOOOOO
+O   RO
+O  O O
+OOA  O
+OZa  O
+OOOOOO
+
+
+Step: 6
+OOOOOO
+O    O
+O  ORO
+OOA  O
+OZa  O
+OOOOOO
+
+
+Step: 7
+OOOOOO
+O    O
+O  O O
+OOA RO
+OZa  O
+OOOOOO
+
+
+Step: 8
+OOOOOO
+O    O
+O  O O
+OOA  O
+OZa RO
+OOOOOO
+
+
+Step: 9
+OOOOOO
+O    O
+O  O O
+OOA  O
+OZaR O
+OOOOOO
+
+
+Step: 10
+OOOOOO
+O    O
+O  O O
+OOA  O
+OZR  O
+OOOOOO
+
+
+Step: 11
+OOOOOO
+O    O
+O  O O
+OOA  O
+OSXR O
+OOOOOO
+
+
+Step: 12
+OOOOOO
+O    O
+O  O O
+OOAR O
+OSX  O
+OOOOOO
+
+
+Step: 13
+OOOOOO
+O    O
+O  O O
+OO ARO
+OSX  O
+OOOOOO
+
+
+Step: 14
+OOOOOO
+O    O
+O  ORO
+OO A O
+OSX  O
+OOOOOO
+
+
+Step: 15
+OOOOOO
+O   RO
+O  O O
+OO A O
+OSX  O
+OOOOOO
+
+
+Step: 16
+OOOOOO
+O  R O
+O  O O
+OO A O
+OSX  O
+OOOOOO
+
+
+Step: 17
+OOOOOO
+O R  O
+O  O O
+OO A O
+OSX  O
+OOOOOO
+
+
+Step: 18
+OOOOOO
+O    O
+O RO O
+OO A O
+OSX  O
+OOOOOO
+
+
+Step: 19
+OOOOOO
+O    O
+O  O O
+OORA O
+OSX  O
+OOOOOO
+
+
+Step: 20
+OOOOOO
+O    O
+O RO O
+OOXA O
+OSa  O
+OOOOOO
+
+
+Step: 21
+OOOOOO
+O R  O
+O XO O
+OO A O
+OSa  O
+OOOOOO
+
+
+Step: 22
+OOOOOO
+O  R O
+O XO O
+OO A O
+OSa  O
+OOOOOO
+
+
+
+Total Steps to Destination: 22
+
+Total Time in seconds: 3
+
+
+Nodes Expanded: 506
+
+
+TotalNodes Expanded: 510
+
+
+Estimated Memory: 59.16 (KB)
