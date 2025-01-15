@@ -11,7 +11,7 @@ int main() {
 	KINGSDOPAMINE KINGSDOPAMINEUTIL;
 
 	//==============================================================MAP NAME INSIDE OF HERE=======================================================
-	std::string mapName = "mapSmallTest.txt";
+	std::string mapName = "mapSmall3.txt";
 	//==============================================================MAP NAME INSIDE OF HERE=======================================================
 
 	Tree newTree = Tree(mapName);
@@ -19,8 +19,8 @@ int main() {
 	//==============================================================UNCOMMENT THE ONE YOU WANT TO USE=======================================================
 
 	//BFSUTIL.BFSCheckOverhaul(newTree.rootNode, newTree.width, newTree.height, newTree.sokoMind, newTree.finalNode, newTree.CompleteMapNode, start, mapName);
-	//DFSUTIL.DFSCheckOverhaul(newTree.rootNode, newTree.width, newTree.height, newTree.sokoMind, newTree.finalNode, newTree.CompleteMapNode, start, mapName);
-	ASTARUTIL.ASTAROVERHAUL(newTree.rootNode, newTree.width, newTree.height, newTree.sokoMind, newTree.finalNode, newTree.CompleteMapNode, start, mapName);
+	DFSUTIL.DFSCheckOverhaul(newTree.rootNode, newTree.width, newTree.height, newTree.sokoMind, newTree.finalNode, newTree.CompleteMapNode, start, mapName);
+	//ASTARUTIL.ASTAROVERHAUL(newTree.rootNode, newTree.width, newTree.height, newTree.sokoMind, newTree.finalNode, newTree.CompleteMapNode, start, mapName);
 	//KINGSDOPAMINEUTIL.KingsDopamineOverhaul(newTree.rootNode, newTree.width, newTree.height, newTree.sokoMind, newTree.finalNode, newTree.CompleteMapNode, start, mapName);
 	 
 	//==============================================================UNCOMMENT THE ONE YOU WANT TO USE=======================================================
