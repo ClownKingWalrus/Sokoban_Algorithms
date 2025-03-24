@@ -1,4 +1,5 @@
 ===You Must Download As Formatting Is Messed Up===
+temp: you must make a folder inside the Algorithims/ folder called CompletedMaps not sure why my git is ignoring it even with exception will fix.
 
 To use this program there is a few things to know
 
