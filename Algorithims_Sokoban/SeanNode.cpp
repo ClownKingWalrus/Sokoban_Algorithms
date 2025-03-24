@@ -96,9 +96,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 	bool right = false;
 
 	//debug
-	std::cout << "\n\n================== PARENT =====================\n";
-	inputNode->PrintBoard(inputNode, sokoMind, width, height, FinalNode);
-	std::cout << "\n================== PARENT =====================\n";
+	//std::cout << "\n\n================== PARENT =====================\n";
+	//inputNode->PrintBoard(inputNode, sokoMind, width, height, FinalNode);
+	//std::cout << "\n================== PARENT =====================\n";
 	//debug
 
 	if (sokoMind.at((robotpos + width)) == true) {
@@ -137,9 +137,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 				return nodeReturner;
 			}
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD BOTTOM BOX =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\n================== CHILD BOTTOM BOX =====================\n";
+			//std::cout << "\n\n================== CHILD BOTTOM BOX =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\n================== CHILD BOTTOM BOX =====================\n";
 			break;
 		}
 		case 0: {//bottom legal move no box
@@ -149,9 +149,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 			std::vector<char> compareArr = CreateCharSokoMind(newNode, sokoMind, width, height, FinalNode);
 			nodeReturner.nodeVector.push_back({ newNode, compareArr });
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD BOTTOM =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\n================== CHILD BOTTOM =====================\n";
+			//std::cout << "\n\n================== CHILD BOTTOM =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\n================== CHILD BOTTOM =====================\n";
 			break;
 		}
 		case -1: //another box is in direction of push
@@ -175,9 +175,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 			}
 			nodeReturner.nodeVector.push_back({ newNode, compareArr });
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD TOP BOX =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\n================== CHILD TOP BOX =====================\n";
+			//std::cout << "\n\n================== CHILD TOP BOX =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\n================== CHILD TOP BOX =====================\n";
 			break;
 		}
 		case 0: {//top legal move no box
@@ -187,9 +187,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 			std::vector<char> compareArr = CreateCharSokoMind(newNode, sokoMind, width, height, FinalNode);
 			nodeReturner.nodeVector.push_back({ newNode, compareArr });
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD TOP =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\n================== CHILD TOP =====================\n";
+			//std::cout << "\n\n================== CHILD TOP =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\n================== CHILD TOP =====================\n";
 			break;
 		}
 		case -1: //another box is in direction of push
@@ -213,9 +213,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 			}
 			nodeReturner.nodeVector.push_back({ newNode, compareArr });
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD LEFT BOX =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\n================== CHILD LEFT BOX =====================\n";
+			//std::cout << "\n\n================== CHILD LEFT BOX =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\n================== CHILD LEFT BOX =====================\n";
 			break;
 		}
 		case 0: {//left legal move no box
@@ -225,9 +225,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 			std::vector<char> compareArr = CreateCharSokoMind(newNode, sokoMind, width, height, FinalNode);
 			nodeReturner.nodeVector.push_back({ newNode, compareArr });
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD LEFT =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\n================== CHILD LEFT =====================\n";
+			//std::cout << "\n\n================== CHILD LEFT =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\n================== CHILD LEFT =====================\n";
 			break;
 		}
 		case -1: //another box is in direction of push
@@ -251,9 +251,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 			}
 			nodeReturner.nodeVector.push_back({ newNode, compareArr });
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD RIGHT BOX =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\nn================== CHILD RIGHT BOX =====================\n";
+			//std::cout << "\n\n================== CHILD RIGHT BOX =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\nn================== CHILD RIGHT BOX =====================\n";
 			break;
 		}
 		case 0: {//right legal move no box
@@ -263,9 +263,9 @@ SeanNode::legalReturn SeanNode::LegalMoveChecks(SeanNode* inputNode, int height,
 			std::vector<char> compareArr = CreateCharSokoMind(newNode, sokoMind, width, height, FinalNode);
 			nodeReturner.nodeVector.push_back({ newNode, compareArr });
 			nodeAmount++;
-			std::cout << "\n\n================== CHILD RIGHT =====================\n";
-			inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
-			std::cout << "\nn================== CHILD RIGHT =====================\n";
+			//std::cout << "\n\n================== CHILD RIGHT =====================\n";
+			//inputNode->PrintBoard(newNode, sokoMind, width, height, FinalNode);
+			//std::cout << "\nn================== CHILD RIGHT =====================\n";
 			break;
 		}
 		case -1: //another box is in direction of push
